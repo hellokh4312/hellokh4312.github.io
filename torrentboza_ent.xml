@@ -94,18 +94,6 @@
 			<showrss:showname>JTBC 썰전.E285.180927.1080p NEXT</showrss:showname>
 		</item>
 		<item>
-			<title>연예가 중계.E1731.180928.720p NEXT</title>
-			<link>magnet:?xt=urn:btih:640ace55b5738062f917a7d01e2b6ac7feb1cd6e</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>연예가 중계.E1731.180928.720p NEXT</showrss:showname>
-		</item>
-		<item>
-			<title>알쓸신잡 3.E02.180928.720p NEXT</title>
-			<link>magnet:?xt=urn:btih:25a9f42328854c40884235eefe5f03a0acdb2ded</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>알쓸신잡 3.E02.180928.720p NEXT</showrss:showname>
-		</item>
-		<item>
 			<title>Mnet 더 꼰대 라이브.E01.180928.720p NEXT</title>
 			<link>magnet:?xt=urn:btih:e10a461d0b55babac5d32d78936fc8905a924fea</link>
 			<showrss:showid></showrss:showid>
@@ -128,6 +116,12 @@
 			<link>magnet:?xt=urn:btih:ae6f72c9623e688fba5a12c8d978079523c03f91</link>
 			<showrss:showid></showrss:showid>
 			<showrss:showname>JTBC 방구석 1열.E22.180928.720p NEXT</showrss:showname>
+		</item>
+		<item>
+			<title>tvN 알쓸신잡 3.E02.180928.720p NEXT</title>
+			<link>magnet:?xt=urn:btih:25a9f42328854c40884235eefe5f03a0acdb2ded</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>tvN 알쓸신잡 3.E02.180928.720p NEXT</showrss:showname>
 		</item>
 		<item>
 			<title>맛있는 녀석들.E188.180928.720p NEXT</title>
