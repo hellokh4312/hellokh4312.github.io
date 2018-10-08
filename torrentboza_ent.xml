@@ -46,16 +46,16 @@
 			<showrss:showname>뭉쳐야 뜬다.E91.181007.720p NEXT</showrss:showname>
 		</item>
 		<item>
-			<title>신비한TV 서프라이즈.E834.181007.720p NEXT</title>
-			<link>magnet:?xt=urn:btih:f79fe813d9767f8a91c0c09ab353b6092737be30</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>신비한TV 서프라이즈.E834.181007.720p NEXT</showrss:showname>
-		</item>
-		<item>
 			<title>MBC every1 미식돌스.E11.181007.720p NEXT</title>
 			<link>magnet:?xt=urn:btih:b900fea4e178a427b26e94c350aec6aac701ef86</link>
 			<showrss:showid></showrss:showid>
 			<showrss:showname>MBC every1 미식돌스.E11.181007.720p NEXT</showrss:showname>
+		</item>
+		<item>
+			<title>도전 골든벨.E917.181007.720p NEXT</title>
+			<link>magnet:?xt=urn:btih:d71206a9bb275d067f29c6d4ffc92f5f3656fc86</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>도전 골든벨.E917.181007.720p NEXT</showrss:showname>
 		</item>
 		<item>
 			<title>SBS 인기가요.E978.181007.720p NEXT</title>
@@ -88,12 +88,6 @@
 			<showrss:showname>TV조선 모란봉 클럽.E157.181007.720p NEXT</showrss:showname>
 		</item>
 		<item>
-			<title>해피 선데이 1박2일.E712.181007..720p NEXT</title>
-			<link>magnet:?xt=urn:btih:09f86d802f5003bda3809fed3dd37fcfa523ffb3</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>해피 선데이 1박2일.E712.181007..720p NEXT</showrss:showname>
-		</item>
-		<item>
 			<title>TV 동물농장.E886.181007.720p NEXT</title>
 			<link>magnet:?xt=urn:btih:cde7ecec044c30d73df5c20b48fa22690ea99a9f</link>
 			<showrss:showid></showrss:showid>
@@ -110,6 +104,12 @@
 			<link>magnet:?xt=urn:btih:15bfb419267f73c7f3ae626bf16fd39a0c961d0a</link>
 			<showrss:showid></showrss:showid>
 			<showrss:showname>tvN 짠내투어.E44.181006.360p NEXT</showrss:showname>
+		</item>
+		<item>
+			<title>TV조선 숲 속 라이브.E04.181007.720p NEXT</title>
+			<link>magnet:?xt=urn:btih:a4dd22ea728e6e1f6f1f82c40e6757ba6e51badb</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>TV조선 숲 속 라이브.E04.181007.720p NEXT</showrss:showname>
 		</item>
 		<item>
 			<title>미운 우리 새끼.E107.181007.720p NEXT</title>
@@ -130,10 +130,22 @@
 			<showrss:showname>런닝맨.E553.181007.720p NEXT</showrss:showname>
 		</item>
 		<item>
+			<title>TV조선 연애의 맛.E04.181007.720p NEXT</title>
+			<link>magnet:?xt=urn:btih:aa1ddfbe5e7b89930e238fe60845a718e5c32d68</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>TV조선 연애의 맛.E04.181007.720p NEXT</showrss:showname>
+		</item>
+		<item>
 			<title>LIFETIME 파자마 프렌즈.E04.181006.H264.720p.by.JOY.</title>
 			<link>magnet:?xt=urn:btih:908900b69898a75f72ed3918d315f9801e182042</link>
 			<showrss:showid></showrss:showid>
 			<showrss:showname>LIFETIME 파자마 프렌즈.E04.181006.H264.720p.by.JOY.</showrss:showname>
+		</item>
+		<item>
+			<title>세종대왕 즉위 600주년 기념 열린음악회.E1214.181007..720p NEXT</title>
+			<link>magnet:?xt=urn:btih:e965fbb5122cfc211f97054585d99ae4e4697abf</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>세종대왕 즉위 600주년 기념 열린음악회.E1214.181007..720p NEXT</showrss:showname>
 		</item>
 		<item>
 			<title>JTBC 히든싱어5.E17.181007.720p NEXT</title>
@@ -146,6 +158,12 @@
 			<link>magnet:?xt=urn:btih:3dc9a53ffdc736b7db45bd62d9e19aaceac5fe88</link>
 			<showrss:showid></showrss:showid>
 			<showrss:showname>개그 콘서트.E968.181007.720p NEXT</showrss:showname>
+		</item>
+		<item>
+			<title>출발 비디오 여행.181007.720p NEXT</title>
+			<link>magnet:?xt=urn:btih:d2a8ce4ad4451a8cb7b23cd6d98d51595b60b36d</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>출발 비디오 여행.181007.720p NEXT</showrss:showname>
 		</item>
 		<item>
 			<title>완결tvN 집밥 백선생.시즌2 720p WITH</title>
