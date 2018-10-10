@@ -1,6 +1,6 @@
 <rss xmlns:showrss="http://showrss.info/" version="2.0">
 	<channel>
-		<title>占썰렌트 torrentboza - ent</title>
+		<title>torrentboza - ent</title>
 		<link></link>
 		<description></description>
 		<item>
@@ -34,10 +34,22 @@
 			<showrss:showname>[완결][tvN] 집밥 백선생.시즌1 720p-WITH</showrss:showname>
 		</item>
 		<item>
+			<title>[tvN] 짠내투어.E44.181006.1080p-NEXT</title>
+			<link>magnet:?xt=urn:btih:925951d154a65e576fd20b82aeb1d4f04d69d422</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>[tvN] 짠내투어.E44.181006.1080p-NEXT</showrss:showname>
+		</item>
+		<item>
 			<title>[tvN] 짠내투어.E44.181006.720p-NEXT</title>
 			<link>magnet:?xt=urn:btih:5a48999d0823b4fdc26e4b75c64bf492f607ec41</link>
 			<showrss:showid></showrss:showid>
 			<showrss:showname>[tvN] 짠내투어.E44.181006.720p-NEXT</showrss:showname>
+		</item>
+		<item>
+			<title>[tvN] 짠내투어.E44.181006.360p-NEXT</title>
+			<link>magnet:?xt=urn:btih:15bfb419267f73c7f3ae626bf16fd39a0c961d0a</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>[tvN] 짠내투어.E44.181006.360p-NEXT</showrss:showname>
 		</item>
 		<item>
 			<title>[tvN] 알쓸신잡 시즌3.E03.181005.1080p-NEXT</title>
@@ -158,12 +170,6 @@
 			<link>magnet:?xt=urn:btih:bb08ff7686262708ec776c65f59bb0189b3ce57f</link>
 			<showrss:showid></showrss:showid>
 			<showrss:showname>[tvN] 짠내투어.E43.180929.1080p-NEXT</showrss:showname>
-		</item>
-		<item>
-			<title>[tvN] 짠내투어.E43.180929.360p-NEXT</title>
-			<link>magnet:?xt=urn:btih:ff2f02d6b6d21ab62cb2a38bf899c8f1a16b0586</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>[tvN] 짠내투어.E43.180929.360p-NEXT</showrss:showname>
 		</item>
 		<item>
 			<title>[tvN] 짠내투어.E43.180929.720p-NEXT</title>
