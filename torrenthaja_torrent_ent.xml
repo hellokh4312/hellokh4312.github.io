@@ -1,8 +1,38 @@
 <rss xmlns:showrss="http://showrss.info/" version="2.0">
 	<channel>
-		<title>占썰렌트 torrenthaja - torrent_ent</title>
+		<title>torrenthaja - torrent_ent</title>
 		<link></link>
 		<description></description>
+		<item>
+			<title> 수미네 반찬.E19.181010.720p-NEXT</title>
+			<link>magnet:?xt=urn:btih:F5D58B7B149D272DC66A940C0125BBB90AE1C79E</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname> 수미네 반찬.E19.181010.720p-NEXT</showrss:showname>
+		</item>
+		<item>
+			<title> 7시엔 홈밥 식구일지.E06.181010.720p-NEXT</title>
+			<link>magnet:?xt=urn:btih:6C4A2D226168AB72B7492E394988EFC208666071</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname> 7시엔 홈밥 식구일지.E06.181010.720p-NEXT</showrss:showname>
+		</item>
+		<item>
+			<title> Show Champion.E288.181010.720p-NEXT</title>
+			<link>magnet:?xt=urn:btih:736394C8DC7EC057F08DF1AF9A134F6A346EEB5C</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname> Show Champion.E288.181010.720p-NEXT</showrss:showname>
+		</item>
+		<item>
+			<title> 주간 아이돌.E376.181010.720p-NEXT</title>
+			<link>magnet:?xt=urn:btih:EAEE48D0E6D876521958A1ECBDDDA351CD1F01ED</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname> 주간 아이돌.E376.181010.720p-NEXT</showrss:showname>
+		</item>
+		<item>
+			<title> GOT7의 하드캐리 2.E03.181010.720p-NEXT</title>
+			<link>magnet:?xt=urn:btih:0E6F5B655CC2ACFDF0A4E309CC2A0000BF7E2E1D</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname> GOT7의 하드캐리 2.E03.181010.720p-NEXT</showrss:showname>
+		</item>
 		<item>
 			<title> 우주적 썰왕썰래.E09.181010.720p-NEXT</title>
 			<link>magnet:?xt=urn:btih:E6EF0D0940C01C9A60244B4B750C3756C5D316DE</link>
@@ -46,12 +76,6 @@
 			<showrss:showname> 문제적 남자.E176.181009.720p-NEXT</showrss:showname>
 		</item>
 		<item>
-			<title> 아내의 맛.E18.181009.720p-NEXT</title>
-			<link>magnet:?xt=urn:btih:2F0D3E1034B072D62895A814F9500B33F12E517F</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname> 아내의 맛.E18.181009.720p-NEXT</showrss:showname>
-		</item>
-		<item>
 			<title> 수다로 통일-공동공부구역 JSA.E05.181009.720p-NEXT</title>
 			<link>magnet:?xt=urn:btih:0E33948FBDBAFE6E3337FFBDD241D8600F6F2DAB</link>
 			<showrss:showid></showrss:showid>
@@ -62,36 +86,6 @@
 			<link>magnet:?xt=urn:btih:E88653419E55023EDCB30E736CBB145BC065AE9D</link>
 			<showrss:showid></showrss:showid>
 			<showrss:showname> 나는 몸신이다.E196.181009.720p-NEXT</showrss:showname>
-		</item>
-		<item>
-			<title> 비디오 스타.E114.181009.720p-NEXT</title>
-			<link>magnet:?xt=urn:btih:0577E307C387E8F59DD9DA35C4A55ED6AF464AF1</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname> 비디오 스타.E114.181009.720p-NEXT</showrss:showname>
-		</item>
-		<item>
-			<title> 본격연예 한밤.E82.181009.720p-NEXT</title>
-			<link>magnet:?xt=urn:btih:595AE5355E2C866997E61C1F3DACEE3B1CB9C5A9</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname> 본격연예 한밤.E82.181009.720p-NEXT</showrss:showname>
-		</item>
-		<item>
-			<title> 프리한19.E126.181009.720p-NEXT</title>
-			<link>magnet:?xt=urn:btih:E44BBEA5F63B2310EC7B6F123FF17E52F98248B1</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname> 프리한19.E126.181009.720p-NEXT</showrss:showname>
-		</item>
-		<item>
-			<title> 둥지탈출 3.E26.181009.720p-NEXT</title>
-			<link>magnet:?xt=urn:btih:8B507C57D39D74D0908999A54B84FBE9FA546DD0</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname> 둥지탈출 3.E26.181009.720p-NEXT</showrss:showname>
-		</item>
-		<item>
-			<title> 쇼 챔피언 비하인드.E111.181009.720p-NEXT</title>
-			<link>magnet:?xt=urn:btih:0847CBC68B73E6BBF172A698B1FFBD3876A2C5B0</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname> 쇼 챔피언 비하인드.E111.181009.720p-NEXT</showrss:showname>
 		</item>
 	</channel>
 </rss>

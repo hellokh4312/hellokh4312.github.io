@@ -1,8 +1,26 @@
 <rss xmlns:showrss="http://showrss.info/" version="2.0">
 	<channel>
-		<title>占썰렌트 torrenthaja - torrent_drama</title>
+		<title>torrenthaja - torrent_drama</title>
 		<link></link>
 		<description></description>
+		<item>
+			<title> 내일도 맑음.E104.181010.720p-NEXT</title>
+			<link>magnet:?xt=urn:btih:1AEC0DF17B5175E1632EF81CC2580C4091B2DE67</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname> 내일도 맑음.E104.181010.720p-NEXT</showrss:showname>
+		</item>
+		<item>
+			<title> 끝까지 사랑.E49.181010.720p-NEXT</title>
+			<link>magnet:?xt=urn:btih:71F766087C1D4BA00E2869AB348592E3408D7648</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname> 끝까지 사랑.E49.181010.720p-NEXT</showrss:showname>
+		</item>
+		<item>
+			<title> 비밀과 거짓말.E63.181010.720p-NEXT</title>
+			<link>magnet:?xt=urn:btih:39B4E0E322FB4699800718F48E0D1C0D6D0FAFE6</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname> 비밀과 거짓말.E63.181010.720p-NEXT</showrss:showname>
+		</item>
 		<item>
 			<title> 차달래 부인의 사랑.E28.181010.720p-NEXT</title>
 			<link>magnet:?xt=urn:btih:9AD2232EEE18AFC28B881C9A0CFD5047024ABBE8</link>
@@ -58,40 +76,22 @@
 			<showrss:showname> 여우각시별 7-8회 합본.E04.181009.720p-NEXT</showrss:showname>
 		</item>
 		<item>
-			<title> 끝까지 사랑.E48.181009.720p-NEXT</title>
+			<title>끝까지 사랑.E48.181009.720p-NEXT</title>
 			<link>magnet:?xt=urn:btih:9C303EB3CEA7EF96ACF4B543B9BA8421931C2F14</link>
 			<showrss:showid></showrss:showid>
-			<showrss:showname> 끝까지 사랑.E48.181009.720p-NEXT</showrss:showname>
+			<showrss:showname>끝까지 사랑.E48.181009.720p-NEXT</showrss:showname>
 		</item>
 		<item>
-			<title> 비밀과 거짓말.E62.181009.720p-NEXT</title>
+			<title>비밀과 거짓말.E62.181009.720p-NEXT</title>
 			<link>magnet:?xt=urn:btih:42D06068E8FA8A894512ABE82AA6C3684157914D</link>
 			<showrss:showid></showrss:showid>
-			<showrss:showname> 비밀과 거짓말.E62.181009.720p-NEXT</showrss:showname>
+			<showrss:showname>비밀과 거짓말.E62.181009.720p-NEXT</showrss:showname>
 		</item>
 		<item>
 			<title>차달래 부인의 사랑.E27.181009.720p-NEXT</title>
 			<link>magnet:?xt=urn:btih:B7AA3E4B2C5DD10C4E0A94498E30B8DB59877718</link>
 			<showrss:showid></showrss:showid>
 			<showrss:showname>차달래 부인의 사랑.E27.181009.720p-NEXT</showrss:showname>
-		</item>
-		<item>
-			<title>나도 엄마야.E91.181009.720p-NEXT</title>
-			<link>magnet:?xt=urn:btih:945523E6923F9F5E6D001617317369FBFCBA3C78</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>나도 엄마야.E91.181009.720p-NEXT</showrss:showname>
-		</item>
-		<item>
-			<title>백일의 낭군님.E09.181008.720p-NEXT</title>
-			<link>magnet:?xt=urn:btih:C123D6DEFA40D6F2E2B8AD27D01634797009B27A</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>백일의 낭군님.E09.181008.720p-NEXT</showrss:showname>
-		</item>
-		<item>
-			<title>여우각시별 5-6회 합본.E03.181008.720p-NEXT</title>
-			<link>magnet:?xt=urn:btih:435409C4143E3F9E2E4C682FED8C252F798EC7F5</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>여우각시별 5-6회 합본.E03.181008.720p-NEXT</showrss:showname>
 		</item>
 	</channel>
 </rss>
