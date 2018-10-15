@@ -34,12 +34,6 @@
 			<showrss:showname> 하나뿐인 내편 19-20회 합본.E10.181014.720p-NEXT</showrss:showname>
 		</item>
 		<item>
-			<title>하나뿐인 내편 17-18회 합본.E09.181013.720p-NEXT</title>
-			<link>magnet:?xt=urn:btih:C153C10F8D307227E6C5CEC4E6C226185258247D</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>하나뿐인 내편 17-18회 합본.E09.181013.720p-NEXT</showrss:showname>
-		</item>
-		<item>
 			<title>빅 포레스트.E06.181012.720p-NEXT</title>
 			<link>magnet:?xt=urn:btih:4CBE90248F4E55F49679188FC353E88311565691</link>
 			<showrss:showid></showrss:showid>
@@ -92,6 +86,12 @@
 			<link>magnet:?xt=urn:btih:11C6AA00EC3178701E0640E4AF56AA6922A3C6DC</link>
 			<showrss:showid></showrss:showid>
 			<showrss:showname>나도 엄마야.E94.181012.720p-NEXT</showrss:showname>
+		</item>
+		<item>
+			<title>손 the guest.E10.181011.720p-Chaos.mp4</title>
+			<link>magnet:?xt=urn:btih:0F9B5D33FB0E47384E8FE660F8F39FCC59360553</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>손 the guest.E10.181011.720p-Chaos.mp4</showrss:showname>
 		</item>
 	</channel>
 </rss>
