@@ -4,10 +4,16 @@
 		<link></link>
 		<description></description>
 		<item>
-			<title>프리스트.E10.181223.720p NEXT</title>
+			<title>OCN 프리스트.E10.181223.1080p NEXT</title>
+			<link>magnet:?xt=urn:btih:1e207da4ed15025b7b394d5411060eb10e2cc738</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>OCN 프리스트.E10.181223.1080p NEXT</showrss:showname>
+		</item>
+		<item>
+			<title>OCN 프리스트.E10.181223.720p NEXT</title>
 			<link>magnet:?xt=urn:btih:bd62bd8a545ca136483a63de176d0c3595fa2d42</link>
 			<showrss:showid></showrss:showid>
-			<showrss:showname>프리스트.E10.181223.720p NEXT</showrss:showname>
+			<showrss:showname>OCN 프리스트.E10.181223.720p NEXT</showrss:showname>
 		</item>
 		<item>
 			<title>내 사랑 치유기 43 44회 합본.E22.181223.720p NEXT</title>
@@ -62,24 +68,6 @@
 			<link>magnet:?xt=urn:btih:b0d30c8ccd372a27cdbcee3d585ba14b2a459cca</link>
 			<showrss:showid></showrss:showid>
 			<showrss:showname>채널A 주말특별기획 커피야 부탁해.E09.181223.720p NEXT</showrss:showname>
-		</item>
-		<item>
-			<title>신과의 약속.E17~E20.181222.합본.720p Chaos</title>
-			<link>magnet:?xt=urn:btih:2ea7ad50a1224041472f3af9472abed8e2d3f8a1</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>신과의 약속.E17~E20.181222.합본.720p Chaos</showrss:showname>
-		</item>
-		<item>
-			<title>신과의 약속.E17~E20.181222.합본.360p Chaos</title>
-			<link>magnet:?xt=urn:btih:196431b0c6a338556a805bd37bcc5f0234324fc8</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>신과의 약속.E17~E20.181222.합본.360p Chaos</showrss:showname>
-		</item>
-		<item>
-			<title>tvN 드라마 스테이지 2019.E04.181223.1080p NEXT</title>
-			<link>magnet:?xt=urn:btih:272e7900e2d1e3361e7e5c0a53865c2f2ceca4da</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>tvN 드라마 스테이지 2019.E04.181223.1080p NEXT</showrss:showname>
 		</item>
 	</channel>
 </rss>
