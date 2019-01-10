@@ -4,6 +4,18 @@
 		<link></link>
 		<description></description>
 		<item>
+			<title>tvN 수요미식회.E189.190110.1080p NEXT</title>
+			<link>magnet:?xt=urn:btih:79a9dfda36bc925ac30450f98248aca1aa7d1d78</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>tvN 수요미식회.E189.190110.1080p NEXT</showrss:showname>
+		</item>
+		<item>
+			<title>수요미식회.E189.190110.720p NEXT</title>
+			<link>magnet:?xt=urn:btih:c0e069575cfdc92a71555a5b7cec3de50fbf24dd</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>수요미식회.E189.190110.720p NEXT</showrss:showname>
+		</item>
+		<item>
 			<title>tvN 수요미식회.E189.190110.720p NEXT</title>
 			<link>magnet:?xt=urn:btih:537e459d15c45eb5ee1402ab34bdcb641dd5f70a</link>
 			<showrss:showid></showrss:showid>
@@ -22,10 +34,10 @@
 			<showrss:showname>한끼줍쇼.E112.190109.1080p NEXT</showrss:showname>
 		</item>
 		<item>
-			<title>라디오스타.E599.190109.720p NEXT</title>
+			<title>라디오스타.E599.190109.720p NEXT 1</title>
 			<link>magnet:?xt=urn:btih:ec1926bce5f563bcf5cfedf78904a0de48c69332</link>
 			<showrss:showid></showrss:showid>
-			<showrss:showname>라디오스타.E599.190109.720p NEXT</showrss:showname>
+			<showrss:showname>라디오스타.E599.190109.720p NEXT 1</showrss:showname>
 		</item>
 		<item>
 			<title>라디오스타.E599.190109.1080p NEXT</title>
@@ -68,18 +80,6 @@
 			<link>magnet:?xt=urn:btih:c27176d5c741b430b9e37ca5fa1f72bde06989ed</link>
 			<showrss:showid></showrss:showid>
 			<showrss:showname>백종원의 골목식당.E48.190109.1080p NEXT</showrss:showname>
-		</item>
-		<item>
-			<title>백종원의 골목식당.E48.190109.720p NEXT</title>
-			<link>magnet:?xt=urn:btih:7ddd412bd9a3f75dc8da7b17a1b95d1ed05d7928</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>백종원의 골목식당.E48.190109.720p NEXT</showrss:showname>
-		</item>
-		<item>
-			<title>tvN 국경없는 포차.E08.190109.1080p NEXT</title>
-			<link>magnet:?xt=urn:btih:41572ced086edc267e4f313af180d4d5e5342699</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>tvN 국경없는 포차.E08.190109.1080p NEXT</showrss:showname>
 		</item>
 	</channel>
 </rss>
