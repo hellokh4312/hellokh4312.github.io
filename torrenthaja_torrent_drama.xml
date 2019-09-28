@@ -51,11 +51,5 @@
 			<showrss:showid></showrss:showid>
 			<showrss:showname>[전편 모음] 신입사관 구해령</showrss:showname>
 		</item>
-		<item>
-			<title>[전편 모음] 웰컴2라이프</title>
-			<link>magnet:?xt=urn:btih:8460F4628377AEFAC50C8F67B1E6819AF75AF75A</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>[전편 모음] 웰컴2라이프</showrss:showname>
-		</item>
 	</channel>
 </rss>
