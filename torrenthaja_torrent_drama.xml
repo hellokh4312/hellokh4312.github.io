@@ -87,11 +87,5 @@
 			<showrss:showid></showrss:showid>
 			<showrss:showname>베가본드 E09 191018 IPTV FHD 1080i.ts</showrss:showname>
 		</item>
-		<item>
-			<title>배가본드.E09.191018.720p-NEXT</title>
-			<link>magnet:?xt=urn:btih:63088E131251C894281B507E1B8FD2474203AED6</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>배가본드.E09.191018.720p-NEXT</showrss:showname>
-		</item>
 	</channel>
 </rss>
