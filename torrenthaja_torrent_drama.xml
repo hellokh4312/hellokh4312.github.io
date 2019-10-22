@@ -81,17 +81,5 @@
 			<showrss:showid></showrss:showid>
 			<showrss:showname>배가본드.E10.191019.720p-NEXT</showrss:showname>
 		</item>
-		<item>
-			<title>베가본드 E10 191019 IPTV FHD 1080i.ts</title>
-			<link>magnet:?xt=urn:btih:F8BF6E1DEFFA31A5D9EA973C333637E425656896</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>베가본드 E10 191019 IPTV FHD 1080i.ts</showrss:showname>
-		</item>
-		<item>
-			<title>황금정원 53-54회 합본.E27.191019.720p-NEXT</title>
-			<link>magnet:?xt=urn:btih:5EBF725F481E40B9FDDE4A81414AEC4A8A16FD35</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>황금정원 53-54회 합본.E27.191019.720p-NEXT</showrss:showname>
-		</item>
 	</channel>
 </rss>
