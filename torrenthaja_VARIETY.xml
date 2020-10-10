@@ -46,12 +46,6 @@
 			<showrss:showname>세상에 나쁜 개는 없다.E175.201009.720p-NEXT</showrss:showname>
 		</item>
 		<item>
-			<title>신상출시 편스토랑.E50.201009.720p-NEXT</title>
-			<link>magnet:?xt=urn:btih:f2f9a07096551771a50a7f37a1d6858340e316c3</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>신상출시 편스토랑.E50.201009.720p-NEXT</showrss:showname>
-		</item>
-		<item>
 			<title>신서유기 8.E01.201009.720p-NEXT</title>
 			<link>magnet:?xt=urn:btih:d6ed62379c00efe46029c7658b0b5ae8d80f3b43</link>
 			<showrss:showid></showrss:showid>
@@ -68,6 +62,12 @@
 			<link>magnet:?xt=urn:btih:b6c51708c4e961a07b02d8cd49fdb403d25fadd7</link>
 			<showrss:showid></showrss:showid>
 			<showrss:showname>세상에 나쁜 개는 없다.E175.201009.450p-NEXT</showrss:showname>
+		</item>
+		<item>
+			<title>신상출시 편스토랑.E50.201009.720p-NEXT.mp4</title>
+			<link>magnet:?xt=urn:btih:f2f9a07096551771a50a7f37a1d6858340e316c3</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>신상출시 편스토랑.E50.201009.720p-NEXT.mp4</showrss:showname>
 		</item>
 	</channel>
 </rss>
