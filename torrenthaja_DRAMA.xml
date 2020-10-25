@@ -4,10 +4,22 @@
 		<link></link>
 		<description></description>
 		<item>
-			<title>스타트업.E04.201025.720p-NEXT.mp4</title>
+			<title>써치.E04.201025.720p-NEXT</title>
+			<link>magnet:?xt=urn:btih:cbd1dc89a7bc381317cafd76b8456b8864fe58fa</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>써치.E04.201025.720p-NEXT</showrss:showname>
+		</item>
+		<item>
+			<title>써치.E04.201025.450p-NEXT.mp4</title>
+			<link>magnet:?xt=urn:btih:737332d8ebfc7044efbd6491c327415890124ac0</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>써치.E04.201025.450p-NEXT.mp4</showrss:showname>
+		</item>
+		<item>
+			<title>스타트업.E04.201025.720p-NEXT</title>
 			<link>magnet:?xt=urn:btih:cdd5d911073e45a5901f84c88440501697bacb84</link>
 			<showrss:showid></showrss:showid>
-			<showrss:showname>스타트업.E04.201025.720p-NEXT.mp4</showrss:showname>
+			<showrss:showname>스타트업.E04.201025.720p-NEXT</showrss:showname>
 		</item>
 		<item>
 			<title>스타트업.E04.201025.450p-NEXT</title>
@@ -56,24 +68,6 @@
 			<link>magnet:?xt=urn:btih:c5c9e96c9032593cdd501484ec8ef975e577f2cb</link>
 			<showrss:showid></showrss:showid>
 			<showrss:showname>[채널A] 금토드라마 거짓말의 거짓말.E16.201024.450p-NEXT.mp4</showrss:showname>
-		</item>
-		<item>
-			<title>경우의 수.E08.201024.450p-NEXT</title>
-			<link>magnet:?xt=urn:btih:e1aba82df3c591e2e6547cb715409cb0d6d68557</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>경우의 수.E08.201024.450p-NEXT</showrss:showname>
-		</item>
-		<item>
-			<title>써치.E03.201024.450p-NEXT</title>
-			<link>magnet:?xt=urn:btih:7a1522cdea637ef38eeecfc8c55e3077f7448cda</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>써치.E03.201024.450p-NEXT</showrss:showname>
-		</item>
-		<item>
-			<title>앨리스.E16.201024.450p-NEXT</title>
-			<link>magnet:?xt=urn:btih:57bcb3215436e5e1ce976b4d46321228c5e2cb68</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>앨리스.E16.201024.450p-NEXT</showrss:showname>
 		</item>
 	</channel>
 </rss>
