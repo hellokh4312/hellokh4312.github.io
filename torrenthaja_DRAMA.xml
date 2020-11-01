@@ -4,10 +4,16 @@
 		<link></link>
 		<description></description>
 		<item>
-			<title>[채널A] 거짓말의 거짓말 .1080p-NEXT</title>
+			<title>거짓말의 거짓말 .1080p-NEXT 완결</title>
 			<link>magnet:?xt=urn:btih:98bfc531a9a18fce41e359b12572704e3c823bea</link>
 			<showrss:showid></showrss:showid>
-			<showrss:showname>[채널A] 거짓말의 거짓말 .1080p-NEXT</showrss:showname>
+			<showrss:showname>거짓말의 거짓말 .1080p-NEXT 완결</showrss:showname>
+		</item>
+		<item>
+			<title>오 삼광빌라.E13.201031.720p-NEXT</title>
+			<link>magnet:?xt=urn:btih:0f4c967a28065f7483e4d2a186a97635c369879c</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>오 삼광빌라.E13.201031.720p-NEXT</showrss:showname>
 		</item>
 		<item>
 			<title>스타트업.E05.201031.720p-NEXT</title>
@@ -32,12 +38,6 @@
 			<link>magnet:?xt=urn:btih:83918ffa245cc38e05a8fe431dc2e3e1db0aaa83</link>
 			<showrss:showid></showrss:showid>
 			<showrss:showname>경우의 수.E10.201031.450p-NEXT</showrss:showname>
-		</item>
-		<item>
-			<title>오 삼광빌라.E13.201031.720p-NEXT.mp4</title>
-			<link>magnet:?xt=urn:btih:0f4c967a28065f7483e4d2a186a97635c369879c</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>오 삼광빌라.E13.201031.720p-NEXT.mp4</showrss:showname>
 		</item>
 		<item>
 			<title>써치.E05.201031.450p-NEXT</title>
@@ -74,18 +74,6 @@
 			<link>magnet:?xt=urn:btih:c694e28dabd958a89d99b4902a66a0ba3a0025ab</link>
 			<showrss:showid></showrss:showid>
 			<showrss:showname>경우의 수 E09.201030.1080p.WEB-DL.x264.AAC-Deresisi</showrss:showname>
-		</item>
-		<item>
-			<title>경우의 수.E09.201030.450p-NEXT</title>
-			<link>magnet:?xt=urn:btih:18f5c631643c285cb62d83de0839b7c8ee9a1336</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>경우의 수.E09.201030.450p-NEXT</showrss:showname>
-		</item>
-		<item>
-			<title>날아라 개천용.E01.201030.450p-NEXT</title>
-			<link>magnet:?xt=urn:btih:2a77d5023af13b855e55342bb4ce611507cf54c0</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>날아라 개천용.E01.201030.450p-NEXT</showrss:showname>
 		</item>
 	</channel>
 </rss>
