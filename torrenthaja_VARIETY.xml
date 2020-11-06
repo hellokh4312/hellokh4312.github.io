@@ -4,10 +4,16 @@
 		<link></link>
 		<description></description>
 		<item>
-			<title>나야나.E05.201106.720p-NEXT.mp4</title>
+			<title>나야나.E05.201106.720p-NEXT</title>
 			<link>magnet:?xt=urn:btih:c7a4db2b580db78e9d90ad3dca4a553acf4f8bd0</link>
 			<showrss:showid></showrss:showid>
-			<showrss:showname>나야나.E05.201106.720p-NEXT.mp4</showrss:showname>
+			<showrss:showname>나야나.E05.201106.720p-NEXT</showrss:showname>
+		</item>
+		<item>
+			<title>신서유기 8.E05.201106.720p-NEXT</title>
+			<link>magnet:?xt=urn:btih:076961e2695f5570b8f51aaca5828627ef5e6502</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>신서유기 8.E05.201106.720p-NEXT</showrss:showname>
 		</item>
 		<item>
 			<title>요즘 육아 금쪽같은 내새끼.E22.201106.720p-NEXT</title>
@@ -50,18 +56,6 @@
 			<link>magnet:?xt=urn:btih:7c9a554eeb9b2ed7a3f87b42ab335082c34a31f8</link>
 			<showrss:showid></showrss:showid>
 			<showrss:showname>투페이스.E07.201105.720p-NEXT</showrss:showname>
-		</item>
-		<item>
-			<title>맛남의 광장.E49.201105.720p-NEXT</title>
-			<link>magnet:?xt=urn:btih:29a89f25bb6db2a2f27b5233c1b0300cd17f0e42</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>맛남의 광장.E49.201105.720p-NEXT</showrss:showname>
-		</item>
-		<item>
-			<title>미쓰백.E05.201105.720p-NEXT</title>
-			<link>magnet:?xt=urn:btih:ab458bde5252c341ceeb98ef577da0e92e434622</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>미쓰백.E05.201105.720p-NEXT</showrss:showname>
 		</item>
 	</channel>
 </rss>
