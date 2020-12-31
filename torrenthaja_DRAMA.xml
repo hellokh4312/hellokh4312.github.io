@@ -4,6 +4,12 @@
 		<link></link>
 		<description></description>
 		<item>
+			<title>[tvN] 나의 아저씨</title>
+			<link>magnet:?xt=urn:btih:6dbdb943ed7eeb530c9fe5a9862e49b2b9b64fef</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>[tvN] 나의 아저씨</showrss:showname>
+		</item>
+		<item>
 			<title>불새 2020.E49.201231.720p-NEXT.mp4</title>
 			<link>magnet:?xt=urn:btih:23350b928b09ae61f8d33c496e82d847864a0b5f</link>
 			<showrss:showid></showrss:showid>
@@ -62,12 +68,6 @@
 			<link>magnet:?xt=urn:btih:d52edaf50b8548850438c4f9e5119aeb5a5a7301</link>
 			<showrss:showid></showrss:showid>
 			<showrss:showname>라이브온.E07.201229.720p-NEXT.mp4</showrss:showname>
-		</item>
-		<item>
-			<title>낮과 밤.E10.201229.720p-NEXT.mp4</title>
-			<link>magnet:?xt=urn:btih:03a616efb27674e17b8d41ee101e888afb62e079</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>낮과 밤.E10.201229.720p-NEXT.mp4</showrss:showname>
 		</item>
 	</channel>
 </rss>
