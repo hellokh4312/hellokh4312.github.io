@@ -4,10 +4,16 @@
 		<link></link>
 		<description></description>
 		<item>
-			<title>누가 뭐래도.E63.210106.720p-NEXT</title>
+			<title>런 온.E07.210106.720p-NEXT</title>
+			<link>magnet:?xt=urn:btih:854ef365e0ad518d677e3391331d65995240b6a2</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>런 온.E07.210106.720p-NEXT</showrss:showname>
+		</item>
+		<item>
+			<title>누가 뭐래도.E63.210106.720p-NEXT.mp4</title>
 			<link>magnet:?xt=urn:btih:7dd78a39600a4c1f9a09c66d4f9a61515b12fe82</link>
 			<showrss:showid></showrss:showid>
-			<showrss:showname>누가 뭐래도.E63.210106.720p-NEXT</showrss:showname>
+			<showrss:showname>누가 뭐래도.E63.210106.720p-NEXT.mp4</showrss:showname>
 		</item>
 		<item>
 			<title>비밀의 남자.E80.210106.720p-NEXT</title>
@@ -50,18 +56,6 @@
 			<link>magnet:?xt=urn:btih:d44dfe116c3c593ab4de4bb93c3e61ac649945a2</link>
 			<showrss:showid></showrss:showid>
 			<showrss:showname>낮과 밤.E12.210105.720p-NEXT</showrss:showname>
-		</item>
-		<item>
-			<title>누가 뭐래도.E62.210105.720p-NEXT</title>
-			<link>magnet:?xt=urn:btih:00d08c6dafcc8f9854cd52a102b1cb392cfe76af</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>누가 뭐래도.E62.210105.720p-NEXT</showrss:showname>
-		</item>
-		<item>
-			<title>비밀의 남자.E79.210105.720p-NEXT</title>
-			<link>magnet:?xt=urn:btih:295eb6de1efba2fed3e81e5636e2fe3bd27f71cf</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>비밀의 남자.E79.210105.720p-NEXT</showrss:showname>
 		</item>
 	</channel>
 </rss>
