@@ -4,10 +4,22 @@
 		<link></link>
 		<description></description>
 		<item>
-			<title>뮤직뱅크.E1057.210108.720p-NEXT</title>
+			<title>포커스FOLK US.E08.210108.720p-NEXT</title>
+			<link>magnet:?xt=urn:btih:5a28c5f9d74f9530328de8f1187e334d2570b3e5</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>포커스FOLK US.E08.210108.720p-NEXT</showrss:showname>
+		</item>
+		<item>
+			<title>맛있는 녀석들.E307.210108.720p-NEXT</title>
+			<link>magnet:?xt=urn:btih:21dba90291e2c9636fc839bd47a4940a66d3cd77</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>맛있는 녀석들.E307.210108.720p-NEXT</showrss:showname>
+		</item>
+		<item>
+			<title>뮤직뱅크.E1057.210108.720p-NEXT.mp4</title>
 			<link>magnet:?xt=urn:btih:3864c5404ca9319d7b66ea6e5bd27f2fd7b59c51</link>
 			<showrss:showid></showrss:showid>
-			<showrss:showname>뮤직뱅크.E1057.210108.720p-NEXT</showrss:showname>
+			<showrss:showname>뮤직뱅크.E1057.210108.720p-NEXT.mp4</showrss:showname>
 		</item>
 		<item>
 			<title>내일은 미스트롯 2.E04.210107.720p-NEXT</title>
@@ -44,24 +56,6 @@
 			<link>magnet:?xt=urn:btih:95394d68869e211d2fca76bf0d30fcf2b514167f</link>
 			<showrss:showid></showrss:showid>
 			<showrss:showname>맛남의 광장.E56.210107.720p-NEXT.mp4</showrss:showname>
-		</item>
-		<item>
-			<title>어서와 한국은 처음이지 시즌2.E140.210107.720p-NEXT</title>
-			<link>magnet:?xt=urn:btih:000e523427aa08e249058fb90f230fe92e9e3adc</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>어서와 한국은 처음이지 시즌2.E140.210107.720p-NEXT</showrss:showname>
-		</item>
-		<item>
-			<title>나는 차였어 - 겨울이야기.E07.210107.720p-NEXT</title>
-			<link>magnet:?xt=urn:btih:1cc5cc97fe7f09b56f9fbcd866ab4a6b7f6a2302</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>나는 차였어 - 겨울이야기.E07.210107.720p-NEXT</showrss:showname>
-		</item>
-		<item>
-			<title>캡틴.E08.210107.720p-NEXT</title>
-			<link>magnet:?xt=urn:btih:9e4ddaf1b9108e79d8d6cfdd670cbdd4501e73a1</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>캡틴.E08.210107.720p-NEXT</showrss:showname>
 		</item>
 	</channel>
 </rss>
