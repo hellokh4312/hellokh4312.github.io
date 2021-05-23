@@ -4,6 +4,12 @@
 		<link></link>
 		<description></description>
 		<item>
+			<title>마인.E06.210523.720p.H264-F1RST</title>
+			<link>magnet:?xt=urn:btih:185dddf412915c71020315efa1af0fd5f9fc1895</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>마인.E06.210523.720p.H264-F1RST</showrss:showname>
+		</item>
+		<item>
 			<title>오케이 광자매.E20.210523.720p.H264-F1RST</title>
 			<link>magnet:?xt=urn:btih:368fa70e4c3d19b903659de9ffc1dd7380150a8f</link>
 			<showrss:showid></showrss:showid>
@@ -80,12 +86,6 @@
 			<link>magnet:?xt=urn:btih:0ff3428e0f055b4a941bdc2586d97dd3308336ba</link>
 			<showrss:showid></showrss:showid>
 			<showrss:showname>마인.E05.210522.720p.H264-F1RST</showrss:showname>
-		</item>
-		<item>
-			<title>마인.E05.210522.720p-NEXT</title>
-			<link>magnet:?xt=urn:btih:616ecd62175749f577fc733559238d8a81305ad6</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>마인.E05.210522.720p-NEXT</showrss:showname>
 		</item>
 	</channel>
 </rss>
