@@ -4,10 +4,34 @@
 		<link></link>
 		<description></description>
 		<item>
-			<title>SBS 인기가요.E1098.210620.720p.H264-F1RST</title>
+			<title>열린음악회.E1338.210620.720p.H264-F1RST</title>
+			<link>magnet:?xt=urn:btih:aece0c1078ca78fd6ae7322a921f5da605e9d4e0</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>열린음악회.E1338.210620.720p.H264-F1RST</showrss:showname>
+		</item>
+		<item>
+			<title>사장님 귀는 당나귀 귀.E113.210620.720p-NEXT</title>
+			<link>magnet:?xt=urn:btih:beb8b3d52457ca85d61196806e323977bc2b2b4e</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>사장님 귀는 당나귀 귀.E113.210620.720p-NEXT</showrss:showname>
+		</item>
+		<item>
+			<title>런닝맨.E560.210620.720p-NEXT</title>
+			<link>magnet:?xt=urn:btih:4370a1d116753366c09218d808bc06583cf7afb8</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>런닝맨.E560.210620.720p-NEXT</showrss:showname>
+		</item>
+		<item>
+			<title>SBS 인기가요.E1098.210620.720p.H264-F1RST.mp4</title>
 			<link>magnet:?xt=urn:btih:9c20b858a39a9c06ef4611b7019dde6028575fa5</link>
 			<showrss:showid></showrss:showid>
-			<showrss:showname>SBS 인기가요.E1098.210620.720p.H264-F1RST</showrss:showname>
+			<showrss:showname>SBS 인기가요.E1098.210620.720p.H264-F1RST.mp4</showrss:showname>
+		</item>
+		<item>
+			<title>산지직송 프로젝트, 무작정 커머스.E03.210620.720p.H264-F1RST.mp4</title>
+			<link>magnet:?xt=urn:btih:ec1b14cd0d11598ed03a10acbae485b1b7296189</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>산지직송 프로젝트, 무작정 커머스.E03.210620.720p.H264-F1RST.mp4</showrss:showname>
 		</item>
 		<item>
 			<title>전국노래자랑.E2063.210620.720p.H264-F1RST.mp4</title>
@@ -44,24 +68,6 @@
 			<link>magnet:?xt=urn:btih:84e5fb8491c234534f044938615b3fd3067ffeef</link>
 			<showrss:showid></showrss:showid>
 			<showrss:showname>속풀이쇼 동치미.E449.210619.720p.H264-F1RST.mp4</showrss:showname>
-		</item>
-		<item>
-			<title>전지적 참견 시점.E158.210619.720p-NEXT.mp4</title>
-			<link>magnet:?xt=urn:btih:151665fbd91417f654e218eaaa154ec211b5629c</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>전지적 참견 시점.E158.210619.720p-NEXT.mp4</showrss:showname>
-		</item>
-		<item>
-			<title>LIVE ON UNPLUGGED.거미.E06.210619.720p.H264-F1RST.mp4</title>
-			<link>magnet:?xt=urn:btih:41460b78cf0d36abf3659e686ee3c7bf2381553b</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>LIVE ON UNPLUGGED.거미.E06.210619.720p.H264-F1RST.mp4</showrss:showname>
-		</item>
-		<item>
-			<title>2021 DIMF 뮤지컬스타.E03.210619.720p.H264-F1RST.mp4</title>
-			<link>magnet:?xt=urn:btih:0a85c8ed770f7168adbb30774ad1eb1aa7ff75c0</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>2021 DIMF 뮤지컬스타.E03.210619.720p.H264-F1RST.mp4</showrss:showname>
 		</item>
 	</channel>
 </rss>
