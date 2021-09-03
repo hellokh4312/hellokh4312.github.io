@@ -1,19 +1,13 @@
 <rss xmlns:showrss="http://showrss.info/" version="2.0">
 	<channel>
-		<title> torrenthaja - VARIETY</title>
+		<title> torrenthaja - enter</title>
 		<link></link>
 		<description></description>
 		<item>
-			<title>내가 키운다.E08.210903.720p-NEXT</title>
+			<title>내가 키운다.E08.210903.720p-NEXT.mp4</title>
 			<link>magnet:?xt=urn:btih:dd09b9aa27b985a87d886fdd0d3f8eb6626293d0</link>
 			<showrss:showid></showrss:showid>
-			<showrss:showname>내가 키운다.E08.210903.720p-NEXT</showrss:showname>
-		</item>
-		<item>
-			<title>식스센스 2.E11.210903.720p-NEXT.mp4</title>
-			<link>magnet:?xt=urn:btih:6630d0711340e0b43b65f42b0b91998dff120247</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>식스센스 2.E11.210903.720p-NEXT.mp4</showrss:showname>
+			<showrss:showname>내가 키운다.E08.210903.720p-NEXT.mp4</showrss:showname>
 		</item>
 		<item>
 			<title>걸스플래닛999 : 소녀대전.E05.210903.1080p.H264-F1RST</title>
@@ -22,10 +16,16 @@
 			<showrss:showname>걸스플래닛999 : 소녀대전.E05.210903.1080p.H264-F1RST</showrss:showname>
 		</item>
 		<item>
-			<title>걸스플래닛999 - 소녀대전.E05.210903.720p-NEXT.mp4</title>
+			<title>식스센스 2.E11.210903.720p-NEXT.mp4</title>
+			<link>magnet:?xt=urn:btih:6630d0711340e0b43b65f42b0b91998dff120247</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>식스센스 2.E11.210903.720p-NEXT.mp4</showrss:showname>
+		</item>
+		<item>
+			<title>걸스플래닛999 - 소녀대전.E05.210903.720p-NEXT</title>
 			<link>magnet:?xt=urn:btih:4b14f0883088c9996d843fd90d40ca4b7c5cc1f1</link>
 			<showrss:showid></showrss:showid>
-			<showrss:showname>걸스플래닛999 - 소녀대전.E05.210903.720p-NEXT.mp4</showrss:showname>
+			<showrss:showname>걸스플래닛999 - 소녀대전.E05.210903.720p-NEXT</showrss:showname>
 		</item>
 		<item>
 			<title>맛있는 녀석들.E341.210903.1080p.H264-F1RST</title>
@@ -40,10 +40,10 @@
 			<showrss:showname>요즘 육아 금쪽같은 내 새끼.E65.210903.1080p.H264-F1RST</showrss:showname>
 		</item>
 		<item>
-			<title>요즘 육아 금쪽같은 내새끼.E65.210903.720p-NEXT.mp4</title>
+			<title>요즘 육아 금쪽같은 내새끼.E65.210903.720p-NEXT</title>
 			<link>magnet:?xt=urn:btih:cc9d445acdec0e9f764ce28e892e3f7c4839d14d</link>
 			<showrss:showid></showrss:showid>
-			<showrss:showname>요즘 육아 금쪽같은 내새끼.E65.210903.720p-NEXT.mp4</showrss:showname>
+			<showrss:showname>요즘 육아 금쪽같은 내새끼.E65.210903.720p-NEXT</showrss:showname>
 		</item>
 		<item>
 			<title>이십세기 힛-트쏭.E76.210903.720p-NEXT.mp4</title>
@@ -62,6 +62,12 @@
 			<link>magnet:?xt=urn:btih:a4df8029e82d1a3a26c670bc516fbf38761e6bed</link>
 			<showrss:showid></showrss:showid>
 			<showrss:showname>홍진경의 영화로운 덕후생활.E07.210903.1080p.H264-F1RST.mp4</showrss:showname>
+		</item>
+		<item>
+			<title>이십세기 힛-트쏭.E76.210903.1080p.H264-F1RST</title>
+			<link>magnet:?xt=urn:btih:2c73f8ebb9bd224d4df8d409474637e3e8f0e8cc</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>이십세기 힛-트쏭.E76.210903.1080p.H264-F1RST</showrss:showname>
 		</item>
 		<item>
 			<title>뮤직뱅크.E1087.210903.1080p.H264-F1RST.mp4</title>
