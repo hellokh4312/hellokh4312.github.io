@@ -4,10 +4,16 @@
 		<link></link>
 		<description></description>
 		<item>
-			<title>인간실격.E10.211003.720p-NEXT</title>
+			<title>인간실격.E10.211003.1080p.H264-F1RST</title>
+			<link>magnet:?xt=urn:btih:47b81d80c778b40daec6b5f56cc326514438a21a</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>인간실격.E10.211003.1080p.H264-F1RST</showrss:showname>
+		</item>
+		<item>
+			<title>인간실격.E10.211003.720p-NEXT.mp4</title>
 			<link>magnet:?xt=urn:btih:796e93eac100144741cfa362cedf701fdbd8ec50</link>
 			<showrss:showid></showrss:showid>
-			<showrss:showname>인간실격.E10.211003.720p-NEXT</showrss:showname>
+			<showrss:showname>인간실격.E10.211003.720p-NEXT.mp4</showrss:showname>
 		</item>
 		<item>
 			<title>갯마을 차차차.E12.211003.720p-NEXT.mp4</title>
@@ -62,18 +68,6 @@
 			<link>magnet:?xt=urn:btih:96087fa98de7d0aa6800b49b2d26a6f1b178a83a</link>
 			<showrss:showid></showrss:showid>
 			<showrss:showname>신사와 아가씨.E03.211002.720p-NEXT</showrss:showname>
-		</item>
-		<item>
-			<title>인간실격.E09.211002.1080p.H264-F1RST.mp4</title>
-			<link>magnet:?xt=urn:btih:2b4ba81fc677f75e3dc6e9f3868bebb1de63ab26</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>인간실격.E09.211002.1080p.H264-F1RST.mp4</showrss:showname>
-		</item>
-		<item>
-			<title>원더우먼.E06.211002.1080p.WANNA.mp4</title>
-			<link>magnet:?xt=urn:btih:0b093bd1bd7a36dcdc8ccfbfca2d60bb4ed4a922</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>원더우먼.E06.211002.1080p.WANNA.mp4</showrss:showname>
 		</item>
 	</channel>
 </rss>
