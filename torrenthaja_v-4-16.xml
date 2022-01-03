@@ -93,5 +93,23 @@
 			<showrss:showid></showrss:showid>
 			<showrss:showname>Kep1er 데뷔쇼.E01.220103.1080p.H264-F1RST</showrss:showname>
 		</item>
+		<item>
+			<title>싱어게인2.E05.220103.720p-NEXT</title>
+			<link>magnet:?xt=urn:btih:32d800ce10b738321ceebe2753149e9437324199</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>싱어게인2.E05.220103.720p-NEXT</showrss:showname>
+		</item>
+		<item>
+			<title>노는 브로 2.E20.220103.720p-NEXT</title>
+			<link>magnet:?xt=urn:btih:0b80555517a5154b9857f86717300597dfd12886</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>노는 브로 2.E20.220103.720p-NEXT</showrss:showname>
+		</item>
+		<item>
+			<title>우리 식구 됐어요.E05.220103.1080p.H264-F1RST</title>
+			<link>magnet:?xt=urn:btih:86253abbc0bb0c392d5e0a4cd844f567a852902b</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>우리 식구 됐어요.E05.220103.1080p.H264-F1RST</showrss:showname>
+		</item>
 	</channel>
 </rss>
