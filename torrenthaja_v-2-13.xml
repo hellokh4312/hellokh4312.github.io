@@ -111,17 +111,5 @@
 			<showrss:showid></showrss:showid>
 			<showrss:showname>고스트 닥터.E01.220103.1080p.H264-F1RST</showrss:showname>
 		</item>
-		<item>
-			<title>쇼윈도여왕의 집.E11.220103.1080p.H264-F1RST</title>
-			<link>magnet:?xt=urn:btih:6c2f9a36deecf699863338cb4dcd2f5219a563d3</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>쇼윈도여왕의 집.E11.220103.1080p.H264-F1RST</showrss:showname>
-		</item>
-		<item>
-			<title>그 해 우리는.E09.220103.720p-NEXT</title>
-			<link>magnet:?xt=urn:btih:65d652e344ecc9b257105c0a63b9d4ef8091091d</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>그 해 우리는.E09.220103.720p-NEXT</showrss:showname>
-		</item>
 	</channel>
 </rss>
