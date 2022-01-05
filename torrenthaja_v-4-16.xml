@@ -111,17 +111,5 @@
 			<showrss:showid></showrss:showid>
 			<showrss:showname>노래가 좋아.E240.220104.720p-NEXT</showrss:showname>
 		</item>
-		<item>
-			<title>이웃집 찰스.E319.220104.720p-NEXT</title>
-			<link>magnet:?xt=urn:btih:fb69d6636f029360420bb116593538bd70c4576e</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>이웃집 찰스.E319.220104.720p-NEXT</showrss:showname>
-		</item>
-		<item>
-			<title>기적의 습관.E111.220104.720p-NEXT</title>
-			<link>magnet:?xt=urn:btih:3772e89d3ee23a6bd24f1d1d6dd6e6ce175822df</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>기적의 습관.E111.220104.720p-NEXT</showrss:showname>
-		</item>
 	</channel>
 </rss>
