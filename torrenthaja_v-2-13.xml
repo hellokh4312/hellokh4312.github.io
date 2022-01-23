@@ -99,23 +99,5 @@
 			<showrss:showid></showrss:showid>
 			<showrss:showname>배드 앤 크레이지.E10.220121.720p-NEXT</showrss:showname>
 		</item>
-		<item>
-			<title>트레이서.E05.220121.H264.720p-BULDU</title>
-			<link>magnet:?xt=urn:btih:ffffd8bc7ee658dfe5b1f9dc3befd0b24a0377c6</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>트레이서.E05.220121.H264.720p-BULDU</showrss:showname>
-		</item>
-		<item>
-			<title>악의 마음을 읽는 자들.E03.220121.720p-NEXT</title>
-			<link>magnet:?xt=urn:btih:dd1fea2b30fb8682a13f1f14d69958fdab8beb92</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>악의 마음을 읽는 자들.E03.220121.720p-NEXT</showrss:showname>
-		</item>
-		<item>
-			<title>트레이서.E05.220121.720p-NICE</title>
-			<link>magnet:?xt=urn:btih:10dcdf7978738b85c5d6e949322afb00fc7ca77b</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>트레이서.E05.220121.720p-NICE</showrss:showname>
-		</item>
 	</channel>
 </rss>
