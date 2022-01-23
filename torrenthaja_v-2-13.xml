@@ -93,23 +93,5 @@
 			<showrss:showid></showrss:showid>
 			<showrss:showname>엉클.E13.220122.1080p.H264-F1RST</showrss:showname>
 		</item>
-		<item>
-			<title>불가살.E11.220122.1080p.H264-F1RST</title>
-			<link>magnet:?xt=urn:btih:6ce8f8565621a6ea86a58567ea6e468d1a20d87b</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>불가살.E11.220122.1080p.H264-F1RST</showrss:showname>
-		</item>
-		<item>
-			<title>[토일미니시리즈] 엉클.E13.220122.720p-NEXT</title>
-			<link>magnet:?xt=urn:btih:54280364ed8bb0c91dc0c166bb0959ba098f8b7b</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>[토일미니시리즈] 엉클.E13.220122.720p-NEXT</showrss:showname>
-		</item>
-		<item>
-			<title>불가살.E11.220122.H264.720p-BULDU</title>
-			<link>magnet:?xt=urn:btih:9cd339169639bf9164120f652914ee49ba7adbea</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>불가살.E11.220122.H264.720p-BULDU</showrss:showname>
-		</item>
 	</channel>
 </rss>
