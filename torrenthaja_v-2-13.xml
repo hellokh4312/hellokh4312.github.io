@@ -87,17 +87,5 @@
 			<showrss:showid></showrss:showid>
 			<showrss:showname>악의 마음을 읽는 자들.E04.220122.720p-NEXT</showrss:showname>
 		</item>
-		<item>
-			<title>엉클.E13.220122.1080p.H264-F1RST</title>
-			<link>magnet:?xt=urn:btih:25ab854b55809bbebfccd9900d2b1499b1cadee8</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>엉클.E13.220122.1080p.H264-F1RST</showrss:showname>
-		</item>
-		<item>
-			<title>불가살.E11.220122.1080p.H264-F1RST</title>
-			<link>magnet:?xt=urn:btih:6ce8f8565621a6ea86a58567ea6e468d1a20d87b</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>불가살.E11.220122.1080p.H264-F1RST</showrss:showname>
-		</item>
 	</channel>
 </rss>
