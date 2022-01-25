@@ -69,5 +69,17 @@
 			<showrss:showid></showrss:showid>
 			<showrss:showname>서민 갑부.E368.220125.720p-NEXT</showrss:showname>
 		</item>
+		<item>
+			<title>이웃집 찰스.E322.220125.1080p.H264-F1RST</title>
+			<link>magnet:?xt=urn:btih:d78388348ad1f4d6f56148e543ab9a6aa93530a2</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>이웃집 찰스.E322.220125.1080p.H264-F1RST</showrss:showname>
+		</item>
+		<item>
+			<title>더 쇼.E285.220125.720p-NEXT</title>
+			<link>magnet:?xt=urn:btih:37f818c8e89adbf2a345220c552dfcaf9e21a1d5</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>더 쇼.E285.220125.720p-NEXT</showrss:showname>
+		</item>
 	</channel>
 </rss>
