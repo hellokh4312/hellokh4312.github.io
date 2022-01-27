@@ -51,17 +51,5 @@
 			<showrss:showid></showrss:showid>
 			<showrss:showname>두 번째 남편.E114.220126.1080p.H264-F1RST</showrss:showname>
 		</item>
-		<item>
-			<title>한 사람만.E12.220125.1080p.H264-F1RST</title>
-			<link>magnet:?xt=urn:btih:e31f5a1ac6deab4af5033d2d933d1db8f825ddb9</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>한 사람만.E12.220125.1080p.H264-F1RST</showrss:showname>
-		</item>
-		<item>
-			<title>고스트 닥터.E08.220125.1080p.H264-F1RST</title>
-			<link>magnet:?xt=urn:btih:f3822004fcc33daf54380e4493f20428a88d0a76</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>고스트 닥터.E08.220125.1080p.H264-F1RST</showrss:showname>
-		</item>
 	</channel>
 </rss>
