@@ -57,17 +57,5 @@
 			<showrss:showid></showrss:showid>
 			<showrss:showname>백종원 클라쓰.E32.220228.720p-NEXT</showrss:showname>
 		</item>
-		<item>
-			<title>성캐가중계.E06.220228.1080p.H264-F1RST</title>
-			<link>magnet:?xt=urn:btih:71419fb67b10bca42690d55e8fcac762b8bb4327</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>성캐가중계.E06.220228.1080p.H264-F1RST</showrss:showname>
-		</item>
-		<item>
-			<title>구해줘 홈즈.E145.220227.720p-NEXT</title>
-			<link>magnet:?xt=urn:btih:1e672e941858d46e8ecd5f12cda2c421465c7c59</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>구해줘 홈즈.E145.220227.720p-NEXT</showrss:showname>
-		</item>
 	</channel>
 </rss>
