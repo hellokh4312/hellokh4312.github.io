@@ -87,17 +87,5 @@
 			<showrss:showid></showrss:showid>
 			<showrss:showname>현재는 아름다워.E09.220430.720p-NEXT.mp4</showrss:showname>
 		</item>
-		<item>
-			<title>지금부터, 쇼타임!.E03.220430.1080p.H264-F1RST</title>
-			<link>magnet:?xt=urn:btih:dabc157ee750bd4c3d598254dbe767f808ff0a65</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>지금부터, 쇼타임!.E03.220430.1080p.H264-F1RST</showrss:showname>
-		</item>
-		<item>
-			<title>겨울지나벚꽃 8회.mp4</title>
-			<link>magnet:?xt=urn:btih:78e786f56eb7892fa1db443bb62bd1fbf83df5c5</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>겨울지나벚꽃 8회.mp4</showrss:showname>
-		</item>
 	</channel>
 </rss>
