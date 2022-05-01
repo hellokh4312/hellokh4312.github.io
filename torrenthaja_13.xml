@@ -57,17 +57,5 @@
 			<showrss:showid></showrss:showid>
 			<showrss:showname>내일.숨.E10.220430.1080p.H264-F1RST.mp4</showrss:showname>
 		</item>
-		<item>
-			<title>어게인 마이 라이프.E08.220430.1080p.H264-F1RST.mp4</title>
-			<link>magnet:?xt=urn:btih:856ea8024288f0a569019d43566ed994e211a78e</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>어게인 마이 라이프.E08.220430.1080p.H264-F1RST.mp4</showrss:showname>
-		</item>
-		<item>
-			<title>우리들의 블루스.E07.220430.1080p.H264-F1RST.mp4</title>
-			<link>magnet:?xt=urn:btih:0923d86f86a3dfff838ececaffcd252e729293c1</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>우리들의 블루스.E07.220430.1080p.H264-F1RST.mp4</showrss:showname>
-		</item>
 	</channel>
 </rss>
