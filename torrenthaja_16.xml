@@ -69,5 +69,23 @@
 			<showrss:showid></showrss:showid>
 			<showrss:showname>알쓸범잡 2.E16.220501.720p-NEXT</showrss:showname>
 		</item>
+		<item>
+			<title>SBS 인기가요.E1137.220501.720p-NEXT</title>
+			<link>magnet:?xt=urn:btih:a6d507bdfd2cd8efaf9911d8660328293129294c</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>SBS 인기가요.E1137.220501.720p-NEXT</showrss:showname>
+		</item>
+		<item>
+			<title>블록버스터.E01.220501.720p-NEXT</title>
+			<link>magnet:?xt=urn:btih:e67883c2e7e31a9372dd5c29b67e5ca8be709d10</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>블록버스터.E01.220501.720p-NEXT</showrss:showname>
+		</item>
+		<item>
+			<title>런닝맨.E601.220501.720p-NEXT</title>
+			<link>magnet:?xt=urn:btih:73353ffa0ad2b6de7d03d6f1fdb59007809d3a79</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>런닝맨.E601.220501.720p-NEXT</showrss:showname>
+		</item>
 	</channel>
 </rss>
