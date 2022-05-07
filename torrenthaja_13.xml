@@ -63,17 +63,5 @@
 			<showrss:showid></showrss:showid>
 			<showrss:showname>어게인 마이 라이프.E10.220507.720p-NICE.mp4</showrss:showname>
 		</item>
-		<item>
-			<title>어게인 마이 라이프.E10.220507.720p-NEXT.mp4</title>
-			<link>magnet:?xt=urn:btih:01b285eaf88c791653b5522bda070832a8d617ad</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>어게인 마이 라이프.E10.220507.720p-NEXT.mp4</showrss:showname>
-		</item>
-		<item>
-			<title>현재는 아름다워.E11.220507.720p-NEXT</title>
-			<link>magnet:?xt=urn:btih:eef8444f6baf93eb4f44c1db5df9932509fa6857</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>현재는 아름다워.E11.220507.720p-NEXT</showrss:showname>
-		</item>
 	</channel>
 </rss>
