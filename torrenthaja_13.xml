@@ -33,17 +33,5 @@
 			<showrss:showid></showrss:showid>
 			<showrss:showname>지금부터 쇼타임.E07.220514.720p-NEXT.mp4</showrss:showname>
 		</item>
-		<item>
-			<title>우리들의 블루스.E11.220514.720p-NEXT.mp4</title>
-			<link>magnet:?xt=urn:btih:753976cb907e91a5a941e245d44f470199418f1a</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>우리들의 블루스.E11.220514.720p-NEXT.mp4</showrss:showname>
-		</item>
-		<item>
-			<title>현재는 아름다워.E13.220514.720p-NEXT</title>
-			<link>magnet:?xt=urn:btih:05f3725fb03b4ec5fb9137a0cff616aa1cf6bf4f</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>현재는 아름다워.E13.220514.720p-NEXT</showrss:showname>
-		</item>
 	</channel>
 </rss>
