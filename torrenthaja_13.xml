@@ -51,17 +51,5 @@
 			<showrss:showid></showrss:showid>
 			<showrss:showname>지금부터 쇼타임.E09.220521.720p-NEXT.mp4</showrss:showname>
 		</item>
-		<item>
-			<title>우리들의 블루스.E13.220521.720p-NEXT.mp4</title>
-			<link>magnet:?xt=urn:btih:5cd285fc6d532fd2cd485f58ef12cf7ae4c211ae</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>우리들의 블루스.E13.220521.720p-NEXT.mp4</showrss:showname>
-		</item>
-		<item>
-			<title>어게인 마이 라이프.E14.220521.720p-NEXT.mp4</title>
-			<link>magnet:?xt=urn:btih:472d64692a53d04572fdd3e613b1140e1829af19</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>어게인 마이 라이프.E14.220521.720p-NEXT.mp4</showrss:showname>
-		</item>
 	</channel>
 </rss>
