@@ -57,29 +57,5 @@
 			<showrss:showid></showrss:showid>
 			<showrss:showname>아티스트 웨이.첫방송.E01.220516.1080p.H264-F1RST.mp4</showrss:showname>
 		</item>
-		<item>
-			<title>아티스트 웨이 2회_ 220523.avi</title>
-			<link>magnet:?xt=urn:btih:265f232b166870d81be8f8c600d6f8dd8b6cb132</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>아티스트 웨이 2회_ 220523.avi</showrss:showname>
-		</item>
-		<item>
-			<title>프리한19.E312.220523.720p-NEXT</title>
-			<link>magnet:?xt=urn:btih:f2df77c2f22f8a57941f6e9ea5d17f4e9f135d58</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>프리한19.E312.220523.720p-NEXT</showrss:showname>
-		</item>
-		<item>
-			<title>뜨거운 씽어즈.E10.220523.720p-NEXT</title>
-			<link>magnet:?xt=urn:btih:ac15e91369596b9ac8568176eb2622e15cc83f09</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>뜨거운 씽어즈.E10.220523.720p-NEXT</showrss:showname>
-		</item>
-		<item>
-			<title>플레이유.E06.제6장 파밍 (Farming).220517.1080p-CJH</title>
-			<link>magnet:?xt=urn:btih:fb8e41d3af61cfda3e158aa103979bc2c3247708</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>플레이유.E06.제6장 파밍 (Farming).220517.1080p-CJH</showrss:showname>
-		</item>
 	</channel>
 </rss>
