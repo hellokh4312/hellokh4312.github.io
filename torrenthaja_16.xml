@@ -27,5 +27,17 @@
 			<showrss:showid></showrss:showid>
 			<showrss:showname>엄마는 예뻤다.E06.220605.1080p.H264-F1RST</showrss:showname>
 		</item>
+		<item>
+			<title>런닝맨.E606.220605.720p-NEXT</title>
+			<link>magnet:?xt=urn:btih:1d7bdae5fa19ced5362477bede5a2d9cca2e9282</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>런닝맨.E606.220605.720p-NEXT</showrss:showname>
+		</item>
+		<item>
+			<title>블록버스터.E06.220605.720p-NEXT</title>
+			<link>magnet:?xt=urn:btih:2d6f989669fcf9c1256a96b1e1be13e992ef9804</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>블록버스터.E06.220605.720p-NEXT</showrss:showname>
+		</item>
 	</channel>
 </rss>
