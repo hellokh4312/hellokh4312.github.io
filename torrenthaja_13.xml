@@ -63,5 +63,29 @@
 			<showrss:showid></showrss:showid>
 			<showrss:showname>현재는 아름다워.E21.220611.720p-NEXT.mp4</showrss:showname>
 		</item>
+		<item>
+			<title>별똥별.E15.220610.1080p.H264-F1RST.mp4</title>
+			<link>magnet:?xt=urn:btih:ec0c776ed5ed3fa308c98a8e66754c2c5890b917</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>별똥별.E15.220610.1080p.H264-F1RST.mp4</showrss:showname>
+		</item>
+		<item>
+			<title>별똥별.E15.220610.720p-NEXT</title>
+			<link>magnet:?xt=urn:btih:9928c048dd7a92a4cd542d76f1308ac299f8d807</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>별똥별.E15.220610.720p-NEXT</showrss:showname>
+		</item>
+		<item>
+			<title>닥터로이어.E03.220610.1080p.H264-F1RST.mp4</title>
+			<link>magnet:?xt=urn:btih:06582c926bf31614f4326341a70dc946ce18cf5f</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>닥터로이어.E03.220610.1080p.H264-F1RST.mp4</showrss:showname>
+		</item>
+		<item>
+			<title>닥터로이어.E03.220610.720p-NEXT.mp4</title>
+			<link>magnet:?xt=urn:btih:71b857444afbd7bc7a98e043cee25cc1371828f0</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>닥터로이어.E03.220610.720p-NEXT.mp4</showrss:showname>
+		</item>
 	</channel>
 </rss>
