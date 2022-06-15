@@ -45,5 +45,23 @@
 			<showrss:showid></showrss:showid>
 			<showrss:showname>에덴.E01.220614.1080p.H264-F1RST.mp4</showrss:showname>
 		</item>
+		<item>
+			<title>뉴페스타.E02.220614.720p.H264-F1RST.mp4</title>
+			<link>magnet:?xt=urn:btih:04c2953e741bee1535e3f74b5e0676cf77fe3c32</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>뉴페스타.E02.220614.720p.H264-F1RST.mp4</showrss:showname>
+		</item>
+		<item>
+			<title>알토란.E390.220614.720p-NEXT</title>
+			<link>magnet:?xt=urn:btih:a6f27dd2c3c793028682004db0ef87b16c7f0877</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>알토란.E390.220614.720p-NEXT</showrss:showname>
+		</item>
+		<item>
+			<title>진격의 할매.E20.220614.720p-NEXT</title>
+			<link>magnet:?xt=urn:btih:36024b75c460664520f608ad5f1e595a5e033698</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>진격의 할매.E20.220614.720p-NEXT</showrss:showname>
+		</item>
 	</channel>
 </rss>
