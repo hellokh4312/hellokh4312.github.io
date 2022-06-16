@@ -51,5 +51,17 @@
 			<showrss:showid></showrss:showid>
 			<showrss:showname>황금 가면.E18.220615.1080p.H264-F1RST.mp4</showrss:showname>
 		</item>
+		<item>
+			<title>링크.E04.220614.720p-NEXT.mp4</title>
+			<link>magnet:?xt=urn:btih:037699f0b89ca7b80e18885d6f421e6195aee15a</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>링크.E04.220614.720p-NEXT.mp4</showrss:showname>
+		</item>
+		<item>
+			<title>링크 먹고 사랑하라, 죽이게.E04.220614.1080p.H264-F1RST.mp4</title>
+			<link>magnet:?xt=urn:btih:2d9fe9617bc00466b1541293c08a5cc3b067fd40</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>링크 먹고 사랑하라, 죽이게.E04.220614.1080p.H264-F1RST.mp4</showrss:showname>
+		</item>
 	</channel>
 </rss>
