@@ -69,29 +69,5 @@
 			<showrss:showid></showrss:showid>
 			<showrss:showname>환혼 (첫방송).E01.220618.720p-NICE</showrss:showname>
 		</item>
-		<item>
-			<title>환혼.E01.220618.1080p.H264-F1RST</title>
-			<link>magnet:?xt=urn:btih:aba24e13e59c2a389d686b39aafdaaa9ad852652</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>환혼.E01.220618.1080p.H264-F1RST</showrss:showname>
-		</item>
-		<item>
-			<title>환혼.E01.220618.720p-NEXT</title>
-			<link>magnet:?xt=urn:btih:26b4d2999c4dbee6b74c320ed04a772d3ab4ea66</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>환혼.E01.220618.720p-NEXT</showrss:showname>
-		</item>
-		<item>
-			<title>왜 오수재인가.E06.220618.1080p.H264-F1RST</title>
-			<link>magnet:?xt=urn:btih:a5d3c6a199ea31fa715c681b63fc7a7a1be0c29a</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>왜 오수재인가.E06.220618.1080p.H264-F1RST</showrss:showname>
-		</item>
-		<item>
-			<title>왜 오수재인가.E06.220618.720p-NEXT</title>
-			<link>magnet:?xt=urn:btih:93463e6eeeb3e8f7f403401a3d093b459deb6f8f</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>왜 오수재인가.E06.220618.720p-NEXT</showrss:showname>
-		</item>
 	</channel>
 </rss>
