@@ -69,11 +69,5 @@
 			<showrss:showid></showrss:showid>
 			<showrss:showname>백패커.E07.220707.1080p.H264-F1RST.mp4</showrss:showname>
 		</item>
-		<item>
-			<title>엠카운트다운.E760.220707.1080p.H264-F1RST.mp4</title>
-			<link>magnet:?xt=urn:btih:25c35d578724bca0eee97e3e9b147c19052e989d</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>엠카운트다운.E760.220707.1080p.H264-F1RST.mp4</showrss:showname>
-		</item>
 	</channel>
 </rss>
