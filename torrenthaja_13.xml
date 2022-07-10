@@ -81,5 +81,29 @@
 			<showrss:showid></showrss:showid>
 			<showrss:showname>닥터로이어.E11.220708.720p-NEXT</showrss:showname>
 		</item>
+		<item>
+			<title>O'PENing.E10.220708.720p.H264-F1RST.mp4</title>
+			<link>magnet:?xt=urn:btih:a842ddfc208b60e1388649309bbceca9792cad2b</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>O'PENing.E10.220708.720p.H264-F1RST.mp4</showrss:showname>
+		</item>
+		<item>
+			<title>O'PENing.E10.220708.1080p.H264-F1RST.mp4</title>
+			<link>magnet:?xt=urn:btih:2c15eb569a823c65fbbca6f6940af145d5d7f327</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>O'PENing.E10.220708.1080p.H264-F1RST.mp4</showrss:showname>
+		</item>
+		<item>
+			<title>왜 오수재인가.E11.220708.1080p.H264-F1RST.mp4</title>
+			<link>magnet:?xt=urn:btih:b2ce5855f9d91daad526d4c67c05efba2706128f</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>왜 오수재인가.E11.220708.1080p.H264-F1RST.mp4</showrss:showname>
+		</item>
+		<item>
+			<title>닥터로이어.E11.220708.720p.WANNA.mp4</title>
+			<link>magnet:?xt=urn:btih:ee9c97d220f816f0c1f253d23a1415cd9437d5ba</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>닥터로이어.E11.220708.720p.WANNA.mp4</showrss:showname>
+		</item>
 	</channel>
 </rss>
