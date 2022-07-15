@@ -75,17 +75,5 @@
 			<showrss:showid></showrss:showid>
 			<showrss:showname>판타스틱 패밀리 DNA 싱어.E10.220714.720p-NICE.mp4</showrss:showname>
 		</item>
-		<item>
-			<title>백패커.E08.220714.720p-NEXT.mp4</title>
-			<link>magnet:?xt=urn:btih:a509fdc4a135848ab5e619d0f0642f68ad66cc44</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>백패커.E08.220714.720p-NEXT.mp4</showrss:showname>
-		</item>
-		<item>
-			<title>백패커.E08.220714.720p-NICE</title>
-			<link>magnet:?xt=urn:btih:4f1c647623e3ac52e4f11ff1babfa45920887318</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>백패커.E08.220714.720p-NICE</showrss:showname>
-		</item>
 	</channel>
 </rss>
