@@ -69,11 +69,5 @@
 			<showrss:showid></showrss:showid>
 			<showrss:showname>이브.E13.220713.720p-NEXT</showrss:showname>
 		</item>
-		<item>
-			<title>인사이더.E11.220713.720p-NEXT</title>
-			<link>magnet:?xt=urn:btih:02d62dd67724c4343fa604d502e8a7509fc1fbc1</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>인사이더.E11.220713.720p-NEXT</showrss:showname>
-		</item>
 	</channel>
 </rss>
