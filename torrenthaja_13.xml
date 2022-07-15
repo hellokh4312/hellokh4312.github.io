@@ -63,5 +63,17 @@
 			<showrss:showid></showrss:showid>
 			<showrss:showname>으라차차 내 인생.E65.220714.1080p.H264-F1RST.mp4</showrss:showname>
 		</item>
+		<item>
+			<title>이브.E13.220713.720p-NEXT</title>
+			<link>magnet:?xt=urn:btih:4d8d2deebd8fc13aaba9c4836fb5f2de5f0fda1f</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>이브.E13.220713.720p-NEXT</showrss:showname>
+		</item>
+		<item>
+			<title>인사이더.E11.220713.720p-NEXT</title>
+			<link>magnet:?xt=urn:btih:02d62dd67724c4343fa604d502e8a7509fc1fbc1</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>인사이더.E11.220713.720p-NEXT</showrss:showname>
+		</item>
 	</channel>
 </rss>
