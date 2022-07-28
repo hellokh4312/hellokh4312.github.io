@@ -4,10 +4,16 @@
 		<link></link>
 		<description></description>
 		<item>
-			<title>아다마스.E02.220728.720p-NEXT.mp4</title>
+			<title>아다마스.E02.220728.720p-NEXT</title>
 			<link>magnet:?xt=urn:btih:39e823b2807522a68ee757cdeba2f5b930d94ea2</link>
 			<showrss:showid></showrss:showid>
-			<showrss:showname>아다마스.E02.220728.720p-NEXT.mp4</showrss:showname>
+			<showrss:showname>아다마스.E02.220728.720p-NEXT</showrss:showname>
+		</item>
+		<item>
+			<title>인사이더.E16.220728.720p-NEXT</title>
+			<link>magnet:?xt=urn:btih:17807da82d2e4b6821ea4077b80b2de3c9e8ab0c</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>인사이더.E16.220728.720p-NEXT</showrss:showname>
 		</item>
 		<item>
 			<title>아다마스.E02.220728.1080p.H264-F1RST.mp4</title>
@@ -80,18 +86,6 @@
 			<link>magnet:?xt=urn:btih:fa38b8d5f77a722b0dd09b96fb919d9e40ecbd61</link>
 			<showrss:showid></showrss:showid>
 			<showrss:showname>으라차차 내 인생.E75.220728.1080p.H264-F1RST.mp4</showrss:showname>
-		</item>
-		<item>
-			<title>비밀의 집.E77.220728.720p-NEXT.mp4</title>
-			<link>magnet:?xt=urn:btih:6b34c652942e035f9cb2180fbfb8f60a428d381a</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>비밀의 집.E77.220728.720p-NEXT.mp4</showrss:showname>
-		</item>
-		<item>
-			<title>황금 가면.E49.220728.1080p.H264-F1RST.mp4</title>
-			<link>magnet:?xt=urn:btih:85b474500ea5cd13c8d6b0b88b6f9dad77efb15a</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>황금 가면.E49.220728.1080p.H264-F1RST.mp4</showrss:showname>
 		</item>
 	</channel>
 </rss>
