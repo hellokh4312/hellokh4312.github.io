@@ -75,17 +75,5 @@
 			<showrss:showid></showrss:showid>
 			<showrss:showname>아다마스.E02.220728.1080p.H264-F1RST.mp4</showrss:showname>
 		</item>
-		<item>
-			<title>아다마스.E02.220728.720p-NICE.mp4</title>
-			<link>magnet:?xt=urn:btih:b2b5f39d9e151cd6d435e04647bb02f84a8a1539</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>아다마스.E02.220728.720p-NICE.mp4</showrss:showname>
-		</item>
-		<item>
-			<title>인사이더.E16.220728.720p-NICE.mp4</title>
-			<link>magnet:?xt=urn:btih:ea8225faab3e6ccbad7eed6ebd1044694ceee497</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>인사이더.E16.220728.720p-NICE.mp4</showrss:showname>
-		</item>
 	</channel>
 </rss>
