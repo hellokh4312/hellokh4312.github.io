@@ -27,11 +27,5 @@
 			<showrss:showid></showrss:showid>
 			<showrss:showname>오늘의 웹툰.E01.220729.1080p.H264-F1RST.mp4</showrss:showname>
 		</item>
-		<item>
-			<title>황금 가면.E50.220729.1080p.H264-F1RST</title>
-			<link>magnet:?xt=urn:btih:9a7a562e57241a8151e21a47d8ad323f4af35a8d</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>황금 가면.E50.220729.1080p.H264-F1RST</showrss:showname>
-		</item>
 	</channel>
 </rss>
