@@ -21,35 +21,5 @@
 			<showrss:showid></showrss:showid>
 			<showrss:showname>오늘의 웹툰.E01.220729.720p-NICE.mp4</showrss:showname>
 		</item>
-		<item>
-			<title>오늘의 웹툰.E01.220729.1080p.H264-F1RST.mp4</title>
-			<link>magnet:?xt=urn:btih:fa82abb88efacc74a6d903fbf3a5e6be5b0ade96</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>오늘의 웹툰.E01.220729.1080p.H264-F1RST.mp4</showrss:showname>
-		</item>
-		<item>
-			<title>황금 가면.E50.220729.1080p.H264-F1RST</title>
-			<link>magnet:?xt=urn:btih:9a7a562e57241a8151e21a47d8ad323f4af35a8d</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>황금 가면.E50.220729.1080p.H264-F1RST</showrss:showname>
-		</item>
-		<item>
-			<title>으라차차 내 인생.E76.220729.1080p.H264-F1RST</title>
-			<link>magnet:?xt=urn:btih:fed3f0bd870b97b0b5052d1beb5cc50a8569af83</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>으라차차 내 인생.E76.220729.1080p.H264-F1RST</showrss:showname>
-		</item>
-		<item>
-			<title>비밀의 집.E78.220729.720p-NEXT</title>
-			<link>magnet:?xt=urn:btih:680b700eb2511a4e6067d7432e698de95c46565d</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>비밀의 집.E78.220729.720p-NEXT</showrss:showname>
-		</item>
-		<item>
-			<title>황금가면.E50.220729.720p-NEXT</title>
-			<link>magnet:?xt=urn:btih:ef4f868d3ec1890abeeb351bae98d8e7dee0d2a7</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>황금가면.E50.220729.720p-NEXT</showrss:showname>
-		</item>
 	</channel>
 </rss>
