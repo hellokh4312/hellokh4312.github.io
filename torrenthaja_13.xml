@@ -22,12 +22,6 @@
 			<showrss:showname>빅마우스 Big.Mouth.2022.S01E06.KOREAN.1080p.DSNP.WEBRip.AAC2.0.x264-ECLiPSE</showrss:showname>
 		</item>
 		<item>
-			<title>타이드랜드 Tidelands.S01.1080p.NF.WEB.DDP5.1.x264-DEFLATE</title>
-			<link>magnet:?xt=urn:btih:ba1c20a478b133f89b2214c84e74615a0e4d4982</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>타이드랜드 Tidelands.S01.1080p.NF.WEB.DDP5.1.x264-DEFLATE</showrss:showname>
-		</item>
-		<item>
 			<title>환혼.Alchemy.of.Souls.E01~E16.(2022).1080p.H264.AAC.WEB-NoLett.[no.Ltr,Opn,Trlr]</title>
 			<link>magnet:?xt=urn:btih:17df2452c802c9b813d66b6940e3da9dc8669779</link>
 			<showrss:showid></showrss:showid>
@@ -110,6 +104,12 @@
 			<link>magnet:?xt=urn:btih:ed3b69faab7942c1be9c313b9c71927eb13123fa</link>
 			<showrss:showid></showrss:showid>
 			<showrss:showname>빅마우스.E06.220813.H264.720p-BULDU</showrss:showname>
+		</item>
+		<item>
+			<title>빅마우스 E06.2022.0813.1080P.H264-FOA</title>
+			<link>magnet:?xt=urn:btih:5f4ca4e7478961cb1bce6a9e1628868bf9901337</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>빅마우스 E06.2022.0813.1080P.H264-FOA</showrss:showname>
 		</item>
 	</channel>
 </rss>
