@@ -45,5 +45,29 @@
 			<showrss:showid></showrss:showid>
 			<showrss:showname>오늘의 웹툰.E15.220916.720p.H264-F1RST</showrss:showname>
 		</item>
+		<item>
+			<title>오늘의 웹툰.E15.220916.720p-NICE</title>
+			<link>magnet:?xt=urn:btih:ef3a4305615f5869de52102df72c08bc303fbb92</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>오늘의 웹툰.E15.220916.720p-NICE</showrss:showname>
+		</item>
+		<item>
+			<title>오늘의 웹툰.E15.220916.1080p.H264-F1RST</title>
+			<link>magnet:?xt=urn:btih:02851ae946d82f365133e234f4b520f277e8e9d9</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>오늘의 웹툰.E15.220916.1080p.H264-F1RST</showrss:showname>
+		</item>
+		<item>
+			<title>오늘의 웹툰.E15.220916.720p-NEXT</title>
+			<link>magnet:?xt=urn:btih:bcdc1dedf61816bfa8b95d6381ce7daf0f93b943</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>오늘의 웹툰.E15.220916.720p-NEXT</showrss:showname>
+		</item>
+		<item>
+			<title>빅마우스 E15.2022.0916.720P.H264-FOA</title>
+			<link>magnet:?xt=urn:btih:fa5d86a4de4f2c487bc52a918df4cb39b71e0b21</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>빅마우스 E15.2022.0916.720P.H264-FOA</showrss:showname>
+		</item>
 	</channel>
 </rss>
