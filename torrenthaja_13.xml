@@ -63,17 +63,5 @@
 			<showrss:showid></showrss:showid>
 			<showrss:showname>모범형사 2.E15.220917.720p-NEXT</showrss:showname>
 		</item>
-		<item>
-			<title>모범형사2.E15.1080p.JTBC-Sniper</title>
-			<link>magnet:?xt=urn:btih:c0140048b82d0aad2e1d7886326521a4bc31575e</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>모범형사2.E15.1080p.JTBC-Sniper</showrss:showname>
-		</item>
-		<item>
-			<title>블라인드.E02.1080p.TVN-Sniper</title>
-			<link>magnet:?xt=urn:btih:b790afeae0e976d38a316b442464c96cb383ace8</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>블라인드.E02.1080p.TVN-Sniper</showrss:showname>
-		</item>
 	</channel>
 </rss>
