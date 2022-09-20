@@ -57,5 +57,23 @@
 			<showrss:showid></showrss:showid>
 			<showrss:showname>멘탈코치 제갈길.E03.220919.H264.720p-BULDU</showrss:showname>
 		</item>
+		<item>
+			<title>멘탈코치 제갈길.E03.220919.720p-NEXT</title>
+			<link>magnet:?xt=urn:btih:7663d0541fae0034fced01d2ebd02c631263cea8</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>멘탈코치 제갈길.E03.220919.720p-NEXT</showrss:showname>
+		</item>
+		<item>
+			<title>멘탈코치 제갈길.E03.220919.1080p.H264-F1RST</title>
+			<link>magnet:?xt=urn:btih:187e0ee513b73c6781bf72684b21c02b184284d6</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>멘탈코치 제갈길.E03.220919.1080p.H264-F1RST</showrss:showname>
+		</item>
+		<item>
+			<title>법대로 사랑하라.E05.220919.720p-NICE</title>
+			<link>magnet:?xt=urn:btih:93e30a5ae8d071fd5258ae4f837d892750109f1f</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>법대로 사랑하라.E05.220919.720p-NICE</showrss:showname>
+		</item>
 	</channel>
 </rss>
