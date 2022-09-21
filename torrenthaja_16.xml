@@ -39,5 +39,29 @@
 			<showrss:showid></showrss:showid>
 			<showrss:showname>LA에 있지.E01.220921.1080p.H264-F1RST</showrss:showname>
 		</item>
+		<item>
+			<title>중계방송 국회 대정부 질문.220921.1080p.H264-F1RST</title>
+			<link>magnet:?xt=urn:btih:d739dd1764753b0e6d30bd9dd573497b297fe90b</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>중계방송 국회 대정부 질문.220921.1080p.H264-F1RST</showrss:showname>
+		</item>
+		<item>
+			<title>식자회담.E06.220920.720p-NICE</title>
+			<link>magnet:?xt=urn:btih:24df7dcc15830b4ab83e1d727e78a8f3f131067b</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>식자회담.E06.220920.720p-NICE</showrss:showname>
+		</item>
+		<item>
+			<title>스트릿 맨 파이터.E05.220920.720p-NEXT</title>
+			<link>magnet:?xt=urn:btih:fcd54123da6c0c38830a26949e6113328f99eaeb</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>스트릿 맨 파이터.E05.220920.720p-NEXT</showrss:showname>
+		</item>
+		<item>
+			<title>오픈런.E66.220921.1080p.H264-F1RST</title>
+			<link>magnet:?xt=urn:btih:da53862f3094356ff36d9b363d3da0eaf1444375</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>오픈런.E66.220921.1080p.H264-F1RST</showrss:showname>
+		</item>
 	</channel>
 </rss>
