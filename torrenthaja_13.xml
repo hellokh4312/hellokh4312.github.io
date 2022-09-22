@@ -51,5 +51,17 @@
 			<showrss:showid></showrss:showid>
 			<showrss:showname>당신이 소원을 말하면.E13.220921.1080p.H264-F1RST</showrss:showname>
 		</item>
+		<item>
+			<title>당신이 소원을 말하면.E13.220921.720p-NICE</title>
+			<link>magnet:?xt=urn:btih:e1492ab3b6a5b8dba62a19ba2254cdade3669109</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>당신이 소원을 말하면.E13.220921.720p-NICE</showrss:showname>
+		</item>
+		<item>
+			<title>당신이 소원을 말하면.E13.220921.720p-NEXT</title>
+			<link>magnet:?xt=urn:btih:952a20818fad19525d8e673607463cbaa20d1a72</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>당신이 소원을 말하면.E13.220921.720p-NEXT</showrss:showname>
+		</item>
 	</channel>
 </rss>
