@@ -57,17 +57,5 @@
 			<showrss:showid></showrss:showid>
 			<showrss:showname>세계 다크투어.E15.220921.1080p.H264-F1RST</showrss:showname>
 		</item>
-		<item>
-			<title>스튜디오K.E122.220921.1080p.H264-F1RST</title>
-			<link>magnet:?xt=urn:btih:0e3a9e2d81b665d635ee5cc728340a6a654051fd</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>스튜디오K.E122.220921.1080p.H264-F1RST</showrss:showname>
-		</item>
-		<item>
-			<title>우리들의남진.E01.220921.1080p.H264-F1RST</title>
-			<link>magnet:?xt=urn:btih:bfefb545f4ef4a8f5f866bde44e7480ae0ead11a</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>우리들의남진.E01.220921.1080p.H264-F1RST</showrss:showname>
-		</item>
 	</channel>
 </rss>
