@@ -63,17 +63,5 @@
 			<showrss:showid></showrss:showid>
 			<showrss:showname>금수저.첫회.E01.220923.720p.H264-F1RST</showrss:showname>
 		</item>
-		<item>
-			<title>금수저.E01.220923.1080p.H264-F1RST</title>
-			<link>magnet:?xt=urn:btih:42abec8155953f62a2cd49d74c1690eba9da4f97</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>금수저.E01.220923.1080p.H264-F1RST</showrss:showname>
-		</item>
-		<item>
-			<title>천원짜리 변호사.E01.220923.720p-NICE</title>
-			<link>magnet:?xt=urn:btih:47949c93bb20ed2cd11840e844aaf8d812088603</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>천원짜리 변호사.E01.220923.720p-NICE</showrss:showname>
-		</item>
 	</channel>
 </rss>
