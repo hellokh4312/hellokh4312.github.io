@@ -45,17 +45,5 @@
 			<showrss:showid></showrss:showid>
 			<showrss:showname>홍김동전.E11.220929.720p.H264-F1RST</showrss:showname>
 		</item>
-		<item>
-			<title>나는 몸신이다.E403.220929.720p.H264-F1RST</title>
-			<link>magnet:?xt=urn:btih:15ce96af7a6d515409ff1d4ff7943f9c58305b9c</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>나는 몸신이다.E403.220929.720p.H264-F1RST</showrss:showname>
-		</item>
-		<item>
-			<title>더 트래블로그.E01.220929.1080p.H264-F1RST</title>
-			<link>magnet:?xt=urn:btih:b8f22c4eeb8263824956dfaf05c9469754e330ea</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>더 트래블로그.E01.220929.1080p.H264-F1RST</showrss:showname>
-		</item>
 	</channel>
 </rss>
