@@ -45,23 +45,5 @@
 			<showrss:showid></showrss:showid>
 			<showrss:showname>멘탈코치 제갈길.E06.1080p.TVN-Sniper</showrss:showname>
 		</item>
-		<item>
-			<title>유니콘.E11.1080p.CP-Sniper</title>
-			<link>magnet:?xt=urn:btih:d0eb2f30e74423b045addd36656330b6799a2f2d</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>유니콘.E11.1080p.CP-Sniper</showrss:showname>
-		</item>
-		<item>
-			<title>블라인드.E05.1080p.TVN-Sniper</title>
-			<link>magnet:?xt=urn:btih:08f31c02c7b90d5a64a562371642566fa4fcd7c0</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>블라인드.E05.1080p.TVN-Sniper</showrss:showname>
-		</item>
-		<item>
-			<title>금수저.E03.1080p.-Sniper</title>
-			<link>magnet:?xt=urn:btih:ad7697274da097f11a6c033b398cd93aea7e37a1</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>금수저.E03.1080p.-Sniper</showrss:showname>
-		</item>
 	</channel>
 </rss>
