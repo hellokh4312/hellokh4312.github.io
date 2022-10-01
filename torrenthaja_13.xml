@@ -57,5 +57,17 @@
 			<showrss:showid></showrss:showid>
 			<showrss:showname>블라인드.E05.1080p.TVN-Sniper</showrss:showname>
 		</item>
+		<item>
+			<title>금수저.E03.1080p.-Sniper</title>
+			<link>magnet:?xt=urn:btih:ad7697274da097f11a6c033b398cd93aea7e37a1</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>금수저.E03.1080p.-Sniper</showrss:showname>
+		</item>
+		<item>
+			<title>금수저.E03.220930.1080p.H264-F1RST</title>
+			<link>magnet:?xt=urn:btih:6bc6a1d71f07a83197ae245fed2a1e57ccb1308c</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>금수저.E03.220930.1080p.H264-F1RST</showrss:showname>
+		</item>
 	</channel>
 </rss>
