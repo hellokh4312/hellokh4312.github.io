@@ -45,5 +45,23 @@
 			<showrss:showid></showrss:showid>
 			<showrss:showname>디 엠파이어: 법의 제국.E03.221001.720p.H264-F1RST</showrss:showname>
 		</item>
+		<item>
+			<title>디 엠파이어: 법의 제국.E03.221001.1080p.H264-F1RST</title>
+			<link>magnet:?xt=urn:btih:2f29e62f750d96d1aa5a0edf6131f0669c85a668</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>디 엠파이어: 법의 제국.E03.221001.1080p.H264-F1RST</showrss:showname>
+		</item>
+		<item>
+			<title>금수저.E04.221001.H264.720p-BULDU</title>
+			<link>magnet:?xt=urn:btih:816746b75e699c4527d0fee17cc9fca0519e6354</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>금수저.E04.221001.H264.720p-BULDU</showrss:showname>
+		</item>
+		<item>
+			<title>금수저.E04.221001.1080p.H264-F1RST</title>
+			<link>magnet:?xt=urn:btih:aefa2420c5d07e3f592fb7d772dbabfa997ce427</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>금수저.E04.221001.1080p.H264-F1RST</showrss:showname>
+		</item>
 	</channel>
 </rss>
