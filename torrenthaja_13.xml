@@ -51,5 +51,23 @@
 			<showrss:showid></showrss:showid>
 			<showrss:showname>블라인드.E06.221001.720p-NEXT</showrss:showname>
 		</item>
+		<item>
+			<title>블라인드.E06.1080p.TVN-Snipe</title>
+			<link>magnet:?xt=urn:btih:dd04e638caf540f1b773f1fd1dd8702727b991b4</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>블라인드.E06.1080p.TVN-Snipe</showrss:showname>
+		</item>
+		<item>
+			<title>디 엠파이어: 법의 제국.E03.221001.720p.H264-F1RST</title>
+			<link>magnet:?xt=urn:btih:35622ad967d747a59dd7a12dea55022daa592bdc</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>디 엠파이어: 법의 제국.E03.221001.720p.H264-F1RST</showrss:showname>
+		</item>
+		<item>
+			<title>디 엠파이어: 법의 제국.E03.221001.1080p.H264-F1RST</title>
+			<link>magnet:?xt=urn:btih:2f29e62f750d96d1aa5a0edf6131f0669c85a668</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>디 엠파이어: 법의 제국.E03.221001.1080p.H264-F1RST</showrss:showname>
+		</item>
 	</channel>
 </rss>
