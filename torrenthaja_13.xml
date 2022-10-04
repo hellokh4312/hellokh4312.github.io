@@ -69,5 +69,17 @@
 			<showrss:showid></showrss:showid>
 			<showrss:showname>멘탈코치 제갈길.E07.221003.720p.H264-F1RST</showrss:showname>
 		</item>
+		<item>
+			<title>멘탈코치 제갈길.E07.221003.1080p.WANNA</title>
+			<link>magnet:?xt=urn:btih:05f780402241bf9fe42e155d4ed449315fd3cd7c</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>멘탈코치 제갈길.E07.221003.1080p.WANNA</showrss:showname>
+		</item>
+		<item>
+			<title>치얼업.E01.221003.1080p.H264-F1RST</title>
+			<link>magnet:?xt=urn:btih:5a27ec2d8407238ef874a48063914aa392172918</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>치얼업.E01.221003.1080p.H264-F1RST</showrss:showname>
+		</item>
 	</channel>
 </rss>
