@@ -51,23 +51,5 @@
 			<showrss:showid></showrss:showid>
 			<showrss:showname>치얼업.E02.221004.1080p.H264-F1RST</showrss:showname>
 		</item>
-		<item>
-			<title>치얼업.E02.221004.H264.720p-BULDU</title>
-			<link>magnet:?xt=urn:btih:7d1721ab6e8ab8fe38a68d921d5feb5208de209b</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>치얼업.E02.221004.H264.720p-BULDU</showrss:showname>
-		</item>
-		<item>
-			<title>치얼업.E02.221004.720p.H264-F1RST</title>
-			<link>magnet:?xt=urn:btih:ef8ed73a0c406a7b4f49aae25aac4458cb164f39</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>치얼업.E02.221004.720p.H264-F1RST</showrss:showname>
-		</item>
-		<item>
-			<title>법대로 사랑하라.E10.221004.720p-NEXT</title>
-			<link>magnet:?xt=urn:btih:1cfc6bc0f7a72d49ed1dda55b27d1090b95ad7e4</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>법대로 사랑하라.E10.221004.720p-NEXT</showrss:showname>
-		</item>
 	</channel>
 </rss>
