@@ -69,17 +69,5 @@
 			<showrss:showid></showrss:showid>
 			<showrss:showname>멘탈코치 제갈길.E08.221004.1080p.H264-F1RST</showrss:showname>
 		</item>
-		<item>
-			<title>법대로 사랑하라.E10.221004.720p-NICE</title>
-			<link>magnet:?xt=urn:btih:aab8196032721678726bea9638af6417e0721236</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>법대로 사랑하라.E10.221004.720p-NICE</showrss:showname>
-		</item>
-		<item>
-			<title>법대로 사랑하라.E10.221004.H264.720p-BULDU</title>
-			<link>magnet:?xt=urn:btih:c07ad44f7cdb81e25906f049c226383685bd2218</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>법대로 사랑하라.E10.221004.H264.720p-BULDU</showrss:showname>
-		</item>
 	</channel>
 </rss>
