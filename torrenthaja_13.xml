@@ -57,5 +57,17 @@
 			<showrss:showid></showrss:showid>
 			<showrss:showname>멘탈코치 제갈길.E08.221004.H264.720p-BULDU</showrss:showname>
 		</item>
+		<item>
+			<title>멘탈코치 제갈길.E08.221004.720p.H264-F1RST</title>
+			<link>magnet:?xt=urn:btih:d9262e9e2b1e87e7ec8f652a2fdea94f790419e1</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>멘탈코치 제갈길.E08.221004.720p.H264-F1RST</showrss:showname>
+		</item>
+		<item>
+			<title>멘탈코치 제갈길.E08.221004.1080p.H264-F1RST</title>
+			<link>magnet:?xt=urn:btih:3b0ea14eb8317252af6acfb98dd5c522281e1e47</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>멘탈코치 제갈길.E08.221004.1080p.H264-F1RST</showrss:showname>
+		</item>
 	</channel>
 </rss>
