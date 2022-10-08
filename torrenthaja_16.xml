@@ -75,17 +75,5 @@
 			<showrss:showid></showrss:showid>
 			<showrss:showname>여행의 맛.E02.221007.1080p.H264-F1RST</showrss:showname>
 		</item>
-		<item>
-			<title>슈퍼맨이 돌아왔다.E459.221007.720p-NEXT</title>
-			<link>magnet:?xt=urn:btih:95b5823691a62da2e5234be135b25a4d628a7a90</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>슈퍼맨이 돌아왔다.E459.221007.720p-NEXT</showrss:showname>
-		</item>
-		<item>
-			<title>여행의 맛.E02.221007.720p.H264-F1RST</title>
-			<link>magnet:?xt=urn:btih:5ea13fae5417e4b22096c56316383f7ff9e7ebd5</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>여행의 맛.E02.221007.720p.H264-F1RST</showrss:showname>
-		</item>
 	</channel>
 </rss>
