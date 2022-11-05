@@ -51,5 +51,11 @@
 			<showrss:showid></showrss:showid>
 			<showrss:showname>트래블리.E13.221105.720p.H264-F1RST</showrss:showname>
 		</item>
+		<item>
+			<title>트래블리.E13.221105.720p-NEXT</title>
+			<link>magnet:?xt=urn:btih:4888139c83c7bff164369d57384167e9f84b6b12</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>트래블리.E13.221105.720p-NEXT</showrss:showname>
+		</item>
 	</channel>
 </rss>
