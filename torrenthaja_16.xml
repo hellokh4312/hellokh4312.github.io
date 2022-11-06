@@ -57,17 +57,5 @@
 			<showrss:showid></showrss:showid>
 			<showrss:showname>배틀트립 2.E04.221105.720p-NEXT</showrss:showname>
 		</item>
-		<item>
-			<title>히든싱어7.E12.221104.720p-NEXT</title>
-			<link>magnet:?xt=urn:btih:c5d0de1d08c4a6190d973ba2f3c3f0080e32dee6</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>히든싱어7.E12.221104.720p-NEXT</showrss:showname>
-		</item>
-		<item>
-			<title>인생에 한 번쯤, 킬리만자로.E02.221105.720p.H264-F1RST</title>
-			<link>magnet:?xt=urn:btih:d0d04716e7dd262a9420d4ddf5f7173bb72cecfd</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>인생에 한 번쯤, 킬리만자로.E02.221105.720p.H264-F1RST</showrss:showname>
-		</item>
 	</channel>
 </rss>
