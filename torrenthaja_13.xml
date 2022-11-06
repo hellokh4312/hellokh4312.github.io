@@ -69,5 +69,11 @@
 			<showrss:showid></showrss:showid>
 			<showrss:showname>슈룹.E07.221105.720p.H264-F1RST</showrss:showname>
 		</item>
+		<item>
+			<title>슈룹.E07.221105.1080p.H264-F1RST</title>
+			<link>magnet:?xt=urn:btih:b4663cd707136530cba992db2c90e87ac36b2258</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>슈룹.E07.221105.1080p.H264-F1RST</showrss:showname>
+		</item>
 	</channel>
 </rss>
