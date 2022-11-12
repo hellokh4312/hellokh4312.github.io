@@ -57,5 +57,17 @@
 			<showrss:showid></showrss:showid>
 			<showrss:showname>마녀의 게임.E20.221111.1080p.H264-F1RST</showrss:showname>
 		</item>
+		<item>
+			<title>가우스전자.E11.221104.720p-NEXT</title>
+			<link>magnet:?xt=urn:btih:83d26e0fae22cbc07038e66f8f276491b95b2b65</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>가우스전자.E11.221104.720p-NEXT</showrss:showname>
+		</item>
+		<item>
+			<title>가우스전자.E12.221105.720p-NEXT</title>
+			<link>magnet:?xt=urn:btih:9334dd450bea35448d8f2d5ffa06a1a25168be89</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>가우스전자.E12.221105.720p-NEXT</showrss:showname>
+		</item>
 	</channel>
 </rss>
