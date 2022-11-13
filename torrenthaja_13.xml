@@ -45,17 +45,5 @@
 			<showrss:showid></showrss:showid>
 			<showrss:showname>소방서 옆 경찰서.E01.221112.1080p.H264-F1RST</showrss:showname>
 		</item>
-		<item>
-			<title>금수저.최종.E16.221112.1080p.H264-F1RST</title>
-			<link>magnet:?xt=urn:btih:5342317529f0c4475535707be1e8d03c606a0da2</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>금수저.최종.E16.221112.1080p.H264-F1RST</showrss:showname>
-		</item>
-		<item>
-			<title>슈룹.E09.221112.1080p.H264-F1RST</title>
-			<link>magnet:?xt=urn:btih:af07de313d27a249f5c6fc5e108a26606dd2105e</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>슈룹.E09.221112.1080p.H264-F1RST</showrss:showname>
-		</item>
 	</channel>
 </rss>
