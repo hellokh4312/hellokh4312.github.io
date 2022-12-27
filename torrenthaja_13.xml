@@ -75,17 +75,5 @@
 			<showrss:showid></showrss:showid>
 			<showrss:showname>커튼콜.E15.221226.720p-NICE</showrss:showname>
 		</item>
-		<item>
-			<title>커튼콜.E15.221226.1080p.H264-F1RST</title>
-			<link>magnet:?xt=urn:btih:cf123d177b9604d59d2f5c28d187959404b0cb89</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>커튼콜.E15.221226.1080p.H264-F1RST</showrss:showname>
-		</item>
-		<item>
-			<title>트롤리.E03.221226.1080p.H264-F1RST</title>
-			<link>magnet:?xt=urn:btih:607847092516cd1dd9102c480cffb60c99399ae6</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>트롤리.E03.221226.1080p.H264-F1RST</showrss:showname>
-		</item>
 	</channel>
 </rss>
