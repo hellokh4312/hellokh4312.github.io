@@ -75,29 +75,5 @@
 			<showrss:showid></showrss:showid>
 			<showrss:showname>안싸우면 다행이야.E104.221226.1080p.H264-F1RST</showrss:showname>
 		</item>
-		<item>
-			<title>톡파원 25시.E42.221226.720p-NEXT</title>
-			<link>magnet:?xt=urn:btih:4181d35cac04190af947cb24aba82f99afddfa34</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>톡파원 25시.E42.221226.720p-NEXT</showrss:showname>
-		</item>
-		<item>
-			<title>안싸우면 다행이야.E104.221226.720p-NEXT</title>
-			<link>magnet:?xt=urn:btih:58a0c5362c6918a98b5f3cae585446c450e892e6</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>안싸우면 다행이야.E104.221226.720p-NEXT</showrss:showname>
-		</item>
-		<item>
-			<title>가요무대.E1779.221226.1080p.H264-F1RST</title>
-			<link>magnet:?xt=urn:btih:e1f12f7783a63ef101070e761c407eb0bc612a63</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>가요무대.E1779.221226.1080p.H264-F1RST</showrss:showname>
-		</item>
-		<item>
-			<title>쇼킹받는 차트.E18.221226.1080p.H264-F1RST</title>
-			<link>magnet:?xt=urn:btih:5bb7b774a5842cbd36e2fafd125037eeae4b3ac4</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>쇼킹받는 차트.E18.221226.1080p.H264-F1RST</showrss:showname>
-		</item>
 	</channel>
 </rss>
