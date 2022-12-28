@@ -81,23 +81,5 @@
 			<showrss:showid></showrss:showid>
 			<showrss:showname>씨름의 제왕.E10.221227.720p-NEXT</showrss:showname>
 		</item>
-		<item>
-			<title>진격의 언니들.E06.221227.1080p.H264-F1RST</title>
-			<link>magnet:?xt=urn:btih:80bd42fc35a951cdfe7878375c4a81cfcce6d44f</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>진격의 언니들.E06.221227.1080p.H264-F1RST</showrss:showname>
-		</item>
-		<item>
-			<title>오버 더 톱.E09.221227.1080p.H264-F1RST</title>
-			<link>magnet:?xt=urn:btih:7d7078570d69838e3da05e9d8c34099c0ad49bda</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>오버 더 톱.E09.221227.1080p.H264-F1RST</showrss:showname>
-		</item>
-		<item>
-			<title>오버 더 톱.E09.221227.720p-NEXT</title>
-			<link>magnet:?xt=urn:btih:1e68cdd4d80a80b7b30c804af5817dfaad292e9e</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>오버 더 톱.E09.221227.720p-NEXT</showrss:showname>
-		</item>
 	</channel>
 </rss>
