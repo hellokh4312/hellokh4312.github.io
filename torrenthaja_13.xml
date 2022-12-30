@@ -81,5 +81,17 @@
 			<showrss:showid></showrss:showid>
 			<showrss:showname>KBS 드라마 스페셜 2022.E10.221228.1080p.H264-F1RST</showrss:showname>
 		</item>
+		<item>
+			<title>사랑의 이해.E03.221228.1080p.H264-F1RST</title>
+			<link>magnet:?xt=urn:btih:b794831bfdc40be5460e01716578ec5019809b80</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>사랑의 이해.E03.221228.1080p.H264-F1RST</showrss:showname>
+		</item>
+		<item>
+			<title>아무것도 하고 싶지 않아.E11.221226.720p-NEXT</title>
+			<link>magnet:?xt=urn:btih:a980ce0870ec0c64f03e79ba3b7f75cf1ab332f7</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>아무것도 하고 싶지 않아.E11.221226.720p-NEXT</showrss:showname>
+		</item>
 	</channel>
 </rss>
