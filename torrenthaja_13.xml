@@ -63,5 +63,17 @@
 			<showrss:showid></showrss:showid>
 			<showrss:showname>아일랜드 E01~E02.2022.1230.1080</showrss:showname>
 		</item>
+		<item>
+			<title>사랑의 이해.E04.221229.1080p.H264-F1RST</title>
+			<link>magnet:?xt=urn:btih:1c72a46d75c64d4ff43b680616d817627d0f8720</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>사랑의 이해.E04.221229.1080p.H264-F1RST</showrss:showname>
+		</item>
+		<item>
+			<title>사랑의 이해.E04.221229.720p-NEXT</title>
+			<link>magnet:?xt=urn:btih:1010418fab0a5e8e11d779beb5a4fb44cfc04b49</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>사랑의 이해.E04.221229.720p-NEXT</showrss:showname>
+		</item>
 	</channel>
 </rss>
