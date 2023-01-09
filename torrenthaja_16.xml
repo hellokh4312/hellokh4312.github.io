@@ -69,5 +69,35 @@
 			<showrss:showid></showrss:showid>
 			<showrss:showname>알토란.E419.230108.1080p.H264-F1RST.mp4</showrss:showname>
 		</item>
+		<item>
+			<title>슈퍼액션.최종회.E07.230108.1080p.H264-F1RST.mp4</title>
+			<link>magnet:?xt=urn:btih:78d536c963555d0091d9b2d67cb21e41a5e984a6</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>슈퍼액션.최종회.E07.230108.1080p.H264-F1RST.mp4</showrss:showname>
+		</item>
+		<item>
+			<title>슈퍼액션.E07.230108.720p-NEXT.mp4</title>
+			<link>magnet:?xt=urn:btih:00537f93d7ec5ff22a6ce5fa95ea75c02714ed98</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>슈퍼액션.E07.230108.720p-NEXT.mp4</showrss:showname>
+		</item>
+		<item>
+			<title>구해줘! 홈즈.E185.230108.1080p.H264-F1RST.mp4</title>
+			<link>magnet:?xt=urn:btih:953a766c3f179e1849f6b8e0295c241310b355f5</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>구해줘! 홈즈.E185.230108.1080p.H264-F1RST.mp4</showrss:showname>
+		</item>
+		<item>
+			<title>이제 만나러 갑니다.E577.230108.1080p.H264-F1RST.mp4</title>
+			<link>magnet:?xt=urn:btih:688412929462c572fe38fe1bf0f41618074b17ca</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>이제 만나러 갑니다.E577.230108.1080p.H264-F1RST.mp4</showrss:showname>
+		</item>
+		<item>
+			<title>구해줘 홈즈.E185.230108.720p-NEXT.mp4</title>
+			<link>magnet:?xt=urn:btih:fa7aa6108c64da71ac51d8009e59b83f8dcacc32</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>구해줘 홈즈.E185.230108.720p-NEXT.mp4</showrss:showname>
+		</item>
 	</channel>
 </rss>
