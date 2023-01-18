@@ -69,5 +69,23 @@
 			<showrss:showid></showrss:showid>
 			<showrss:showname>두뇌공조.E05.230116.720p-NEXT</showrss:showname>
 		</item>
+		<item>
+			<title>트롤리.E09.230116.720p-NEXT</title>
+			<link>magnet:?xt=urn:btih:7110d4e00c947e16fc1c5f800ec75e8bd5e980ba</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>트롤리.E09.230116.720p-NEXT</showrss:showname>
+		</item>
+		<item>
+			<title>트롤리.E09.230116.1080p.H264-F1RST</title>
+			<link>magnet:?xt=urn:btih:03ade92880463cce9a1cc7f61d68d908cdb38491</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>트롤리.E09.230116.1080p.H264-F1RST</showrss:showname>
+		</item>
+		<item>
+			<title>두뇌공조.E05.230116.1080p.H264-F1RST</title>
+			<link>magnet:?xt=urn:btih:f546132a3b80af8e07e33edd6caa9a60ce176dd3</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>두뇌공조.E05.230116.1080p.H264-F1RST</showrss:showname>
+		</item>
 	</channel>
 </rss>
