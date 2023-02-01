@@ -81,11 +81,5 @@
 			<showrss:showid></showrss:showid>
 			<showrss:showname>트롤리.E11.230130.720p-NEXT</showrss:showname>
 		</item>
-		<item>
-			<title>트롤리.E11.230130.1080p.H264-F1RST</title>
-			<link>magnet:?xt=urn:btih:9857470e811b4fdb327270c5e230915aca1ee444</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>트롤리.E11.230130.1080p.H264-F1RST</showrss:showname>
-		</item>
 	</channel>
 </rss>
