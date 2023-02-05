@@ -75,23 +75,5 @@
 			<showrss:showid></showrss:showid>
 			<showrss:showname>법쩐.E10.230204.1080p.H264-F1RST</showrss:showname>
 		</item>
-		<item>
-			<title>꼭두의 계절.E04.230204.1080p.H264-F1RST</title>
-			<link>magnet:?xt=urn:btih:d059c4d68ab5ec887440fe442d1ac5877b52872e</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>꼭두의 계절.E04.230204.1080p.H264-F1RST</showrss:showname>
-		</item>
-		<item>
-			<title>꼭두의 계절.E04.230204.720p-NEXT</title>
-			<link>magnet:?xt=urn:btih:7f66ed94fc103ce4765d6a989fe398a6bae0c3b1</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>꼭두의 계절.E04.230204.720p-NEXT</showrss:showname>
-		</item>
-		<item>
-			<title>대행사.E09.230204.1080p.H264-F1RST</title>
-			<link>magnet:?xt=urn:btih:a2ff97397e6eaf04c79c0f275baab408b625495f</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>대행사.E09.230204.1080p.H264-F1RST</showrss:showname>
-		</item>
 	</channel>
 </rss>
