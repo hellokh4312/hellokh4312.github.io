@@ -63,5 +63,29 @@
 			<showrss:showid></showrss:showid>
 			<showrss:showname>대행사.E10.230205.720p-NEXT</showrss:showname>
 		</item>
+		<item>
+			<title>대행사.E10.230205.1080p.H264-F1RS</title>
+			<link>magnet:?xt=urn:btih:989a11e2847c10420d223d2f129168b0453df230</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>대행사.E10.230205.1080p.H264-F1RS</showrss:showname>
+		</item>
+		<item>
+			<title>빨간 풍선.E14.230205.1080p.H264-F1RST</title>
+			<link>magnet:?xt=urn:btih:7a9fef3eb6282cfd5540fd1a9a91b84b70aa48e2</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>빨간 풍선.E14.230205.1080p.H264-F1RST</showrss:showname>
+		</item>
+		<item>
+			<title>[TV CHOSUN 주말미니시리즈] 빨간풍선.E14.230205.720p-NEXT</title>
+			<link>magnet:?xt=urn:btih:513c6320f920d30d66b13788b0f0cee43decf784</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>[TV CHOSUN 주말미니시리즈] 빨간풍선.E14.230205.720p-NEXT</showrss:showname>
+		</item>
+		<item>
+			<title>일타 스캔들.E08.230205.720p-NEXT</title>
+			<link>magnet:?xt=urn:btih:41e0cb21b8bc9743e78abbd1d9898c7bf6984b06</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>일타 스캔들.E08.230205.720p-NEXT</showrss:showname>
+		</item>
 	</channel>
 </rss>
