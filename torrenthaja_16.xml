@@ -63,17 +63,5 @@
 			<showrss:showid></showrss:showid>
 			<showrss:showname>라디오스타.E803.230208.1080p.H264-F1RST</showrss:showname>
 		</item>
-		<item>
-			<title>고딩엄빠 3.E04.230208.720p-NEXT</title>
-			<link>magnet:?xt=urn:btih:32ed9bba26ddae63b70ee703e9257ba56b06446d</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>고딩엄빠 3.E04.230208.720p-NEXT</showrss:showname>
-		</item>
-		<item>
-			<title>이번 생은 같은 편.E02.230208.720p-NEXT</title>
-			<link>magnet:?xt=urn:btih:a7ce6f7e94a7fafdef5edaaf6e389847efe86b5e</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>이번 생은 같은 편.E02.230208.720p-NEXT</showrss:showname>
-		</item>
 	</channel>
 </rss>
