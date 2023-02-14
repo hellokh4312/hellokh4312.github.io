@@ -81,5 +81,17 @@
 			<showrss:showid></showrss:showid>
 			<showrss:showname>[TV CHOSUN 주말미니시리즈] 빨간풍선.E16.230212.720p-NEXT</showrss:showname>
 		</item>
+		<item>
+			<title>일타 스캔들.E10.230212.1080p.H264-F1RST</title>
+			<link>magnet:?xt=urn:btih:89e736629da3fb72b1aa404671f1843597a01759</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>일타 스캔들.E10.230212.1080p.H264-F1RST</showrss:showname>
+		</item>
+		<item>
+			<title>빨간 풍선.E16.230212.1080p.H264-F1RST</title>
+			<link>magnet:?xt=urn:btih:0256021548c63e94873234f7c692a834dbe620f0</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>빨간 풍선.E16.230212.1080p.H264-F1RST</showrss:showname>
+		</item>
 	</channel>
 </rss>
