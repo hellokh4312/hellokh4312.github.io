@@ -57,5 +57,29 @@
 			<showrss:showid></showrss:showid>
 			<showrss:showname>두뇌공조.E12.230214.720p-NEXT</showrss:showname>
 		</item>
+		<item>
+			<title>두뇌공조.E12.230214.1080p.H264-F1RST</title>
+			<link>magnet:?xt=urn:btih:f6372c2389d7042df3efa0eb65d7f50fca59bb31</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>두뇌공조.E12.230214.1080p.H264-F1RST</showrss:showname>
+		</item>
+		<item>
+			<title>트롤리.E16.230214.720p-NEXT</title>
+			<link>magnet:?xt=urn:btih:c8c069c46d9cfe08900e5392a542313d4ae0a663</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>트롤리.E16.230214.720p-NEXT</showrss:showname>
+		</item>
+		<item>
+			<title>트롤리.최종.E16.230214.1080p.H264-F1RST</title>
+			<link>magnet:?xt=urn:btih:e034af37b8ddf548ed90cfa146f116e96f07a653</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>트롤리.최종.E16.230214.1080p.H264-F1RST</showrss:showname>
+		</item>
+		<item>
+			<title>청춘월담.E04.230214.720p-NEXT</title>
+			<link>magnet:?xt=urn:btih:14206d1201704cad7fa8d9d10d26f0573a1aecc7</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>청춘월담.E04.230214.720p-NEXT</showrss:showname>
+		</item>
 	</channel>
 </rss>
