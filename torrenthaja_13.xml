@@ -75,17 +75,5 @@
 			<showrss:showid></showrss:showid>
 			<showrss:showname>트롤리.최종.E16.230214.1080p.H264-F1RST</showrss:showname>
 		</item>
-		<item>
-			<title>청춘월담.E04.230214.720p-NEXT</title>
-			<link>magnet:?xt=urn:btih:14206d1201704cad7fa8d9d10d26f0573a1aecc7</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>청춘월담.E04.230214.720p-NEXT</showrss:showname>
-		</item>
-		<item>
-			<title>청춘월담.E04.230214.1080p.H264-F1RST</title>
-			<link>magnet:?xt=urn:btih:0bbcc2681f8778e0cf5d50f86671dc93e16ec2ee</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>청춘월담.E04.230214.1080p.H264-F1RST</showrss:showname>
-		</item>
 	</channel>
 </rss>
