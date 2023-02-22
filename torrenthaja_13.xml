@@ -75,5 +75,17 @@
 			<showrss:showid></showrss:showid>
 			<showrss:showname>청춘월담.E05.230220.720p-NEXT</showrss:showname>
 		</item>
+		<item>
+			<title>두뇌공조.E13.230220.1080p.H264-F1RST</title>
+			<link>magnet:?xt=urn:btih:377f29c81b56d2d971d3fd233a35598509f867bd</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>두뇌공조.E13.230220.1080p.H264-F1RST</showrss:showname>
+		</item>
+		<item>
+			<title>청춘월담.E05.230220.1080p.H264-F1RST</title>
+			<link>magnet:?xt=urn:btih:a9fdd918784d228c68981a94efa46006f9136f36</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>청춘월담.E05.230220.1080p.H264-F1RST</showrss:showname>
+		</item>
 	</channel>
 </rss>
