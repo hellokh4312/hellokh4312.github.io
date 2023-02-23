@@ -63,23 +63,5 @@
 			<showrss:showid></showrss:showid>
 			<showrss:showname>라디오스타.E805.230222.1080p.H264-F1RST</showrss:showname>
 		</item>
-		<item>
-			<title>피크타임.E03.230222.1080p.H264-F1RST.</title>
-			<link>magnet:?xt=urn:btih:6c75b64c92488839e002c762b5c55528f5b964c6</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>피크타임.E03.230222.1080p.H264-F1RST.</showrss:showname>
-		</item>
-		<item>
-			<title>이번생은같은편.E04.230222.1080p.H264-F1RST</title>
-			<link>magnet:?xt=urn:btih:a6f46cf4904bb35d9f034af4b92349052190c792</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>이번생은같은편.E04.230222.1080p.H264-F1RST</showrss:showname>
-		</item>
-		<item>
-			<title>고딩엄빠3.E06.230222.1080p.H264-F1RST</title>
-			<link>magnet:?xt=urn:btih:9dc602557325c1a9b4bddb841efc14a79c2976bd</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>고딩엄빠3.E06.230222.1080p.H264-F1RST</showrss:showname>
-		</item>
 	</channel>
 </rss>
