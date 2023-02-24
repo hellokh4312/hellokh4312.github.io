@@ -87,17 +87,5 @@
 			<showrss:showid></showrss:showid>
 			<showrss:showname>어서와~ 한국은 처음이지.E284.230223.1080p.H264-F1RST</showrss:showname>
 		</item>
-		<item>
-			<title>돈쭐내러 왔습니다.E75.230223.720p-NEXT</title>
-			<link>magnet:?xt=urn:btih:37343ef89654448b3148e67a08cd096c2a876943</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>돈쭐내러 왔습니다.E75.230223.720p-NEXT</showrss:showname>
-		</item>
-		<item>
-			<title>홍김동전.E25.230223.1080p.H264-F1RST</title>
-			<link>magnet:?xt=urn:btih:d185278cf17e8bc794e184e4cfe8008833b9ab06</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>홍김동전.E25.230223.1080p.H264-F1RST</showrss:showname>
-		</item>
 	</channel>
 </rss>
