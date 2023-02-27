@@ -81,11 +81,5 @@
 			<showrss:showid></showrss:showid>
 			<showrss:showname>아일랜드.E06.230225.1080p.H264-F1RST</showrss:showname>
 		</item>
-		<item>
-			<title>[TV CHOSUN 주말미니시리즈] 빨간풍선.E19.230225.720p-NEXT</title>
-			<link>magnet:?xt=urn:btih:6b934f61a4a4fc86363bab4a4f1a5f7c5e22ee68</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>[TV CHOSUN 주말미니시리즈] 빨간풍선.E19.230225.720p-NEXT</showrss:showname>
-		</item>
 	</channel>
 </rss>
