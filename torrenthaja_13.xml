@@ -57,5 +57,35 @@
 			<showrss:showid></showrss:showid>
 			<showrss:showname>신성한, 이혼.첫 방송.E01.230304.1080p.H264-F1RST</showrss:showname>
 		</item>
+		<item>
+			<title>꼭두의 계절.E12.230304.720p-NEXT</title>
+			<link>magnet:?xt=urn:btih:9758a9cef3e94fc52f7d6d3d8f99e34631f73bd4</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>꼭두의 계절.E12.230304.720p-NEXT</showrss:showname>
+		</item>
+		<item>
+			<title>일타 스캔들.E15.230304.720p-NEXT</title>
+			<link>magnet:?xt=urn:btih:4d82558b153d0e113a19354d50846cb8bcb388e3</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>일타 스캔들.E15.230304.720p-NEXT</showrss:showname>
+		</item>
+		<item>
+			<title>일타 스캔들.E15.230304.1080p.H264-F1RST</title>
+			<link>magnet:?xt=urn:btih:e1e613b16d05e1ce76d2803b0cbc52d0fb84f306</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>일타 스캔들.E15.230304.1080p.H264-F1RST</showrss:showname>
+		</item>
+		<item>
+			<title>삼남매가 용감하게.E46.230304.1080p.H264-F1RST</title>
+			<link>magnet:?xt=urn:btih:621458b980dc28fd72d80fd2db699466eea41189</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>삼남매가 용감하게.E46.230304.1080p.H264-F1RST</showrss:showname>
+		</item>
+		<item>
+			<title>삼남매가 용감하게.E46.230304.720p-NEXT</title>
+			<link>magnet:?xt=urn:btih:7b59779e99d38ef5daa8da1d528db8be6034a3dd</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>삼남매가 용감하게.E46.230304.720p-NEXT</showrss:showname>
+		</item>
 	</channel>
 </rss>
