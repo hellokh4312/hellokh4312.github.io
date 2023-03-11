@@ -63,5 +63,17 @@
 			<showrss:showid></showrss:showid>
 			<showrss:showname>팬텀싱어4.E01.230310.720p.H264-F1RST</showrss:showname>
 		</item>
+		<item>
+			<title>그림형제.E03.230310.1080p.H264-F1RST</title>
+			<link>magnet:?xt=urn:btih:bc54e00e9ab10b0fc53805bf53e9627c8a161237</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>그림형제.E03.230310.1080p.H264-F1RST</showrss:showname>
+		</item>
+		<item>
+			<title>용감한 형사들2.E19.230310.720p-NEXT</title>
+			<link>magnet:?xt=urn:btih:f92c6fa9358c12d32d3db31c215cb4a82c39e2ca</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>용감한 형사들2.E19.230310.720p-NEXT</showrss:showname>
+		</item>
 	</channel>
 </rss>
