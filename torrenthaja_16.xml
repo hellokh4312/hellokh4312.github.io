@@ -75,5 +75,29 @@
 			<showrss:showid></showrss:showid>
 			<showrss:showname>더 시즌즈-박재범의 드라이브.E06.230312.1080p.H264-F1RST</showrss:showname>
 		</item>
+		<item>
+			<title>더 시즌즈-박재범의 드라이브.E06.230312.720p-NEXT</title>
+			<link>magnet:?xt=urn:btih:489d45c600d905ff0f06a24d572aa759b353fbc5</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>더 시즌즈-박재범의 드라이브.E06.230312.720p-NEXT</showrss:showname>
+		</item>
+		<item>
+			<title>혜미리예채파.E01.720p-Sniper</title>
+			<link>magnet:?xt=urn:btih:daba550700d011e152cf13eb546d1adccac2c4ed</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>혜미리예채파.E01.720p-Sniper</showrss:showname>
+		</item>
+		<item>
+			<title>더퀸즈.E04.230312.1080p.H264-F1RST</title>
+			<link>magnet:?xt=urn:btih:bb4851db32174204c426322856402f887b250ee8</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>더퀸즈.E04.230312.1080p.H264-F1RST</showrss:showname>
+		</item>
+		<item>
+			<title>미운 우리 새끼.E334.230312.720p-NEXT</title>
+			<link>magnet:?xt=urn:btih:5fed41fb69b7df0744ad5246bbff7b6be1c6199c</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>미운 우리 새끼.E334.230312.720p-NEXT</showrss:showname>
+		</item>
 	</channel>
 </rss>
