@@ -81,5 +81,23 @@
 			<showrss:showid></showrss:showid>
 			<showrss:showname>듣고 보니 그럴싸.첫 방송.E01.230315.1080p.H264-F1RST</showrss:showname>
 		</item>
+		<item>
+			<title>나는 자연인이다.E545.230315.1080p.H264-F1RST</title>
+			<link>magnet:?xt=urn:btih:81d43683bf7e320904bef9cb230ff514c5494e20</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>나는 자연인이다.E545.230315.1080p.H264-F1RST</showrss:showname>
+		</item>
+		<item>
+			<title>옥탑방의 문제아들.E219.230315.1080p.WANNA</title>
+			<link>magnet:?xt=urn:btih:00fd35f77ef645ab4bbda845e739c4fb2a6c31cf</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>옥탑방의 문제아들.E219.230315.1080p.WANNA</showrss:showname>
+		</item>
+		<item>
+			<title>벌거벗은 한국사.E47.230315.720p-NEXT</title>
+			<link>magnet:?xt=urn:btih:1e41291b9a9078a468e55d78ba4137387f359140</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>벌거벗은 한국사.E47.230315.720p-NEXT</showrss:showname>
+		</item>
 	</channel>
 </rss>
