@@ -75,5 +75,17 @@
 			<showrss:showid></showrss:showid>
 			<showrss:showname>서진이네.E04.230317.720p-NEXT</showrss:showname>
 		</item>
+		<item>
+			<title>서진이네.E04.230317.1080p.H264-F1RST</title>
+			<link>magnet:?xt=urn:btih:4c7ee8e45d11df7fae8cdd35da58fc5112ed3b72</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>서진이네.E04.230317.1080p.H264-F1RST</showrss:showname>
+		</item>
+		<item>
+			<title>서진이네.E04.720p-Sniper</title>
+			<link>magnet:?xt=urn:btih:e59bbf874b73d5ad5fa78a13d850ec2083e9ff30</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>서진이네.E04.720p-Sniper</showrss:showname>
+		</item>
 	</channel>
 </rss>
