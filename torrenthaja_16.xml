@@ -63,23 +63,5 @@
 			<showrss:showid></showrss:showid>
 			<showrss:showname>팬텀싱어4.E02.230317.1080p.H264-F1RST</showrss:showname>
 		</item>
-		<item>
-			<title>용감한 형사들2.E20.230317.720p-NEXT</title>
-			<link>magnet:?xt=urn:btih:0dcfa9b48c27cb4be13cefee85537148195417b3</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>용감한 형사들2.E20.230317.720p-NEXT</showrss:showname>
-		</item>
-		<item>
-			<title>서진이네.E04.230317.720p-NEXT</title>
-			<link>magnet:?xt=urn:btih:aa1ef4562d38f043647ca97bf8ab24a487408884</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>서진이네.E04.230317.720p-NEXT</showrss:showname>
-		</item>
-		<item>
-			<title>서진이네.E04.230317.1080p.H264-F1RST</title>
-			<link>magnet:?xt=urn:btih:4c7ee8e45d11df7fae8cdd35da58fc5112ed3b72</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>서진이네.E04.230317.1080p.H264-F1RST</showrss:showname>
-		</item>
 	</channel>
 </rss>
