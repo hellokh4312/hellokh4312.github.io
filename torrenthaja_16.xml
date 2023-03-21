@@ -63,5 +63,23 @@
 			<showrss:showid></showrss:showid>
 			<showrss:showname>프리한19.E355.230320.1080p.H265-F1RST</showrss:showname>
 		</item>
+		<item>
+			<title>안싸우면 다행이야.E115.230320.1080p.H264-F1RST</title>
+			<link>magnet:?xt=urn:btih:67ad83ec160dbcc0957f29e98e227b2b06668042</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>안싸우면 다행이야.E115.230320.1080p.H264-F1RST</showrss:showname>
+		</item>
+		<item>
+			<title>안싸우면 다행이야.E115.230320.720p-NEXT</title>
+			<link>magnet:?xt=urn:btih:39b257e30d1b0fc0b2ab720c3fe9e28682bb686c</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>안싸우면 다행이야.E115.230320.720p-NEXT</showrss:showname>
+		</item>
+		<item>
+			<title>신병캠프.E07.230320.720p-NEXT</title>
+			<link>magnet:?xt=urn:btih:754c7fc50303b66b57c0d2470bd99b90b2eba8d0</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>신병캠프.E07.230320.720p-NEXT</showrss:showname>
+		</item>
 	</channel>
 </rss>
